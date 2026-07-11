@@ -15,6 +15,7 @@ python = "^3.14"
 # сюда добавляйте зависимости, например:
 # requests = "^2.32.0"
 # pytest = "^8.0.0"
+coverage = "^7.15.0"
 
 [build-system]
 requires = ["poetry-core"]
