@@ -29,3 +29,11 @@ def test_json_saver_add_and_get():
     saver.add_aeroplane(a)
     all_planes = saver.get_all()
     assert len(all_planes) == 1
+
+def test_aeroplane_validation_bad_altitude():
+    with pytest.raises(ValueError):
+        Aeroplane("TEST", "USA", 100, -100)
+
+def test_aeroplane_validation_empty_name():
+    with pytest.raises(ValueError):
+        Aeroplane("", "USA", 100, 1000)
