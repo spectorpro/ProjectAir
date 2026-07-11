@@ -1,5 +1,5 @@
 import requests
-from api_base import BaseApiClient
+from src.api_base import BaseApiClient
 
 class OpenskyApiClient(BaseApiClient):
     BASE_URL = "https://opensky-network.org/api/states/all"

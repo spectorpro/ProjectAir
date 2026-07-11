@@ -1,7 +1,7 @@
 import json
 from pathlib import Path
-from storage_base import StorageBase
-from aeroplane import Aeroplane
+from src.storage_base import StorageBase
+from src.aeroplane import Aeroplane
 
 class JSONSaver(StorageBase):
     def __init__(self, filepath: str = "aeroplanes.json"):
