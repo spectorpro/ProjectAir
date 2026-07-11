@@ -1,13 +1,21 @@
-[tool.poetry]
+[project]
 name = "projectair"
 version = "0.1.0"
-description = ""
-authors = ["«Artyom» <«lzspector@mail.ru»>"]
-readme = "README.md"
+requires-python = ">=3.14"
+# description, authors и т.п. можно добавить сюда при желании
+
+[tool.poetry]
+# здесь только настройки самого Poetry, без requires-python
+
+[[tool.poetry.packages]]
+include = "src"
 
 [tool.poetry.dependencies]
 python = "^3.14"
-
+# сюда добавляйте зависимости, например:
+# requests = "^2.32.0"
+# pytest = "^8.0.0"
+coverage = "^7.15.0"
 
 [build-system]
 requires = ["poetry-core"]
