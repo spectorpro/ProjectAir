@@ -1,0 +1,4431 @@
+[
+  {
+    "icao24": "39de4e",
+    "callsign": "TVF72AP ",
+    "origin_country": "France",
+    "velocity": 227.38,
+    "geo_altitude": 11932.92,
+    "longitude": -0.6542,
+    "latitude": 48.0908
+  },
+  {
+    "icao24": "3ffc29",
+    "callsign": "DMFSS   ",
+    "origin_country": "Germany",
+    "velocity": 55.22,
+    "geo_altitude": 0.0,
+    "longitude": 12.6197,
+    "latitude": 48.339
+  },
+  {
+    "icao24": "39de4a",
+    "callsign": "TVF67AK ",
+    "origin_country": "France",
+    "velocity": 222.52,
+    "geo_altitude": 12458.7,
+    "longitude": -2.1846,
+    "latitude": 42.1378
+  },
+  {
+    "icao24": "a53edd",
+    "callsign": "GPD437  ",
+    "origin_country": "United States",
+    "velocity": 44.04,
+    "geo_altitude": 205.74,
+    "longitude": -70.9719,
+    "latitude": 41.6647
+  },
+  {
+    "icao24": "39de57",
+    "callsign": "TVF38EU ",
+    "origin_country": "France",
+    "velocity": 216.41,
+    "geo_altitude": 12115.8,
+    "longitude": 16.2927,
+    "latitude": 43.2403
+  },
+  {
+    "icao24": "39de59",
+    "callsign": "TVF63GS ",
+    "origin_country": "France",
+    "velocity": 228.35,
+    "geo_altitude": 11201.4,
+    "longitude": 0.6959,
+    "latitude": 43.3365
+  },
+  {
+    "icao24": "39de58",
+    "callsign": "TVF63YH ",
+    "origin_country": "France",
+    "velocity": 237.14,
+    "geo_altitude": 12420.6,
+    "longitude": 4.8474,
+    "latitude": 46.5469
+  },
+  {
+    "icao24": "c07d20",
+    "callsign": "JZA541  ",
+    "origin_country": "Canada",
+    "velocity": 6.94,
+    "geo_altitude": 0.0,
+    "longitude": -79.3923,
+    "latitude": 43.6304
+  },
+  {
+    "icao24": "39de53",
+    "callsign": "TVF15GP ",
+    "origin_country": "France",
+    "velocity": 226.5,
+    "geo_altitude": 12435.84,
+    "longitude": 1.2835,
+    "latitude": 45.3947
+  },
+  {
+    "icao24": "39de55",
+    "callsign": "TVF31HC ",
+    "origin_country": "France",
+    "velocity": 230.37,
+    "geo_altitude": 11460.48,
+    "longitude": 7.2648,
+    "latitude": 51.5029
+  },
+  {
+    "icao24": "39de54",
+    "callsign": "TVF8230 ",
+    "origin_country": "France",
+    "velocity": 249.93,
+    "geo_altitude": 12466.32,
+    "longitude": 7.4822,
+    "latitude": 41.764
+  },
+  {
+    "icao24": "ac496b",
+    "callsign": "N891DW  ",
+    "origin_country": "United States",
+    "velocity": 78.26,
+    "geo_altitude": 1219.2,
+    "longitude": -88.7695,
+    "latitude": 41.9872
+  },
+  {
+    "icao24": "c047d8",
+    "callsign": "CGBFJ   ",
+    "origin_country": "Canada",
+    "velocity": 49.66,
+    "geo_altitude": 944.88,
+    "longitude": -80.1392,
+    "latitude": 43.9435
+  },
+  {
+    "icao24": "adb938",
+    "callsign": "CAP2151 ",
+    "origin_country": "United States",
+    "velocity": 52.08,
+    "geo_altitude": 601.98,
+    "longitude": -93.1735,
+    "latitude": 45.242
+  },
+  {
+    "icao24": "ac7cc8",
+    "callsign": "N90306  ",
+    "origin_country": "United States",
+    "velocity": 27.7,
+    "geo_altitude": 297.18,
+    "longitude": -88.6236,
+    "latitude": 42.9977
+  },
+  {
+    "icao24": "39de45",
+    "callsign": "TVF50FL ",
+    "origin_country": "France",
+    "velocity": 229.31,
+    "geo_altitude": 11163.3,
+    "longitude": -2.8249,
+    "latitude": 44.5698
+  },
+  {
+    "icao24": "407a03",
+    "callsign": "GCLYM   ",
+    "origin_country": "United Kingdom",
+    "velocity": 39.74,
+    "geo_altitude": 1158.24,
+    "longitude": -1.3689,
+    "latitude": 51.1642
+  },
+  {
+    "icao24": "39de49",
+    "callsign": "TVF8602 ",
+    "origin_country": "France",
+    "velocity": 240.49,
+    "geo_altitude": 10477.5,
+    "longitude": 3.5281,
+    "latitude": 46.8793
+  },
+  {
+    "icao24": "39de40",
+    "callsign": "TVF15FY ",
+    "origin_country": "France",
+    "velocity": 226.28,
+    "geo_altitude": 12115.8,
+    "longitude": 7.0591,
+    "latitude": 45.9641
+  },
+  {
+    "icao24": "39de41",
+    "callsign": "TVF81YS ",
+    "origin_country": "France",
+    "velocity": 224.72,
+    "geo_altitude": 10180.32,
+    "longitude": 4.2557,
+    "latitude": 47.6489
+  },
+  {
+    "icao24": "c047cf",
+    "callsign": "CGBFA   ",
+    "origin_country": "Canada",
+    "velocity": 42.33,
+    "geo_altitude": 571.5,
+    "longitude": -79.9022,
+    "latitude": 43.7661
+  },
+  {
+    "icao24": "ab0356",
+    "callsign": "ASA265  ",
+    "origin_country": "United States",
+    "velocity": 188.55,
+    "geo_altitude": 3771.9,
+    "longitude": -121.7837,
+    "latitude": 47.4151
+  },
+  {
+    "icao24": "a2228b",
+    "callsign": "ASA485  ",
+    "origin_country": "United States",
+    "velocity": 5.66,
+    "geo_altitude": 0.0,
+    "longitude": -122.5964,
+    "latitude": 45.5867
+  },
+  {
+    "icao24": "abacd2",
+    "callsign": "UAL364  ",
+    "origin_country": "United States",
+    "velocity": 122.95,
+    "geo_altitude": 2926.08,
+    "longitude": -88.6525,
+    "latitude": 41.9626
+  },
+  {
+    "icao24": "4acb03",
+    "callsign": "NSZ4279 ",
+    "origin_country": "Sweden",
+    "velocity": 228.28,
+    "geo_altitude": 11795.76,
+    "longitude": -3.5785,
+    "latitude": 48.0939
+  },
+  {
+    "icao24": "0aa002",
+    "callsign": "Q8PBSD  ",
+    "origin_country": "Barbados",
+    "velocity": 234.46,
+    "geo_altitude": 13472.16,
+    "longitude": -68.585,
+    "latitude": 42.7744
+  },
+  {
+    "icao24": "4acb02",
+    "callsign": "NSZ4383 ",
+    "origin_country": "Sweden",
+    "velocity": 245.7,
+    "geo_altitude": 11727.18,
+    "longitude": 22.5846,
+    "latitude": 45.5224
+  },
+  {
+    "icao24": "4acb04",
+    "callsign": "NSZ9FQ  ",
+    "origin_country": "Sweden",
+    "velocity": 246.23,
+    "geo_altitude": 11353.8,
+    "longitude": 12.5305,
+    "latitude": 53.9942
+  },
+  {
+    "icao24": "4bc8c6",
+    "callsign": "PGT32FU ",
+    "origin_country": "Turkey",
+    "velocity": 153.58,
+    "geo_altitude": 4152.9,
+    "longitude": 18.4648,
+    "latitude": 44.1678
+  },
+  {
+    "icao24": "4bc8c5",
+    "callsign": "PGT27UP ",
+    "origin_country": "Turkey",
+    "velocity": 241.65,
+    "geo_altitude": 10416.54,
+    "longitude": 5.794,
+    "latitude": 48.3659
+  },
+  {
+    "icao24": "4bc8c2",
+    "callsign": "PGT58CD ",
+    "origin_country": "Turkey",
+    "velocity": 255.17,
+    "geo_altitude": 11125.2,
+    "longitude": 17.1787,
+    "latitude": 46.9167
+  },
+  {
+    "icao24": "4bc8c3",
+    "callsign": "PGT48NC ",
+    "origin_country": "Turkey",
+    "velocity": 212.55,
+    "geo_altitude": 11940.54,
+    "longitude": 22.648,
+    "latitude": 47.6359
+  },
+  {
+    "icao24": "4bc8d0",
+    "callsign": "PGT306U ",
+    "origin_country": "Turkey",
+    "velocity": 245.58,
+    "geo_altitude": 10325.1,
+    "longitude": 27.2006,
+    "latitude": 41.465
+  },
+  {
+    "icao24": "ad9cb9",
+    "callsign": "N9763J  ",
+    "origin_country": "United States",
+    "velocity": 48.97,
+    "geo_altitude": 868.68,
+    "longitude": -90.8134,
+    "latitude": 41.6988
+  },
+  {
+    "icao24": "c02298",
+    "callsign": "SPR812  ",
+    "origin_country": "Canada",
+    "velocity": 125.85,
+    "geo_altitude": 3741.42,
+    "longitude": -61.1052,
+    "latitude": 45.7766
+  },
+  {
+    "icao24": "511171",
+    "callsign": "CFG5WR  ",
+    "origin_country": "Estonia",
+    "velocity": 238.25,
+    "geo_altitude": 11795.76,
+    "longitude": 3.1302,
+    "latitude": 48.8235
+  },
+  {
+    "icao24": "a3425f",
+    "callsign": "N309SP  ",
+    "origin_country": "United States",
+    "velocity": 47.03,
+    "geo_altitude": 1226.82,
+    "longitude": -87.3672,
+    "latitude": 41.6144
+  },
+  {
+    "icao24": "3c4c63",
+    "callsign": "BVR808  ",
+    "origin_country": "Germany",
+    "velocity": 242.27,
+    "geo_altitude": 9304.02,
+    "longitude": 5.4277,
+    "latitude": 45.3547
+  },
+  {
+    "icao24": "ac3679",
+    "callsign": "N8860B  ",
+    "origin_country": "United States",
+    "velocity": 49.02,
+    "geo_altitude": 1684.02,
+    "longitude": -86.1107,
+    "latitude": 42.0071
+  },
+  {
+    "icao24": "4bc8d9",
+    "callsign": "PGT273A ",
+    "origin_country": "Turkey",
+    "velocity": 0.0,
+    "geo_altitude": 0.0,
+    "longitude": 10.0026,
+    "latitude": 53.6308
+  },
+  {
+    "icao24": "4bc8d6",
+    "callsign": "PGT69TD ",
+    "origin_country": "Turkey",
+    "velocity": 214.64,
+    "geo_altitude": 11445.24,
+    "longitude": 17.4836,
+    "latitude": 45.8598
+  },
+  {
+    "icao24": "a4d838",
+    "callsign": "DAL59   ",
+    "origin_country": "United States",
+    "velocity": 0.51,
+    "geo_altitude": 0.0,
+    "longitude": -71.0237,
+    "latitude": 42.3704
+  },
+  {
+    "icao24": "4bc8d4",
+    "callsign": "PGT388P ",
+    "origin_country": "Turkey",
+    "velocity": 251.8,
+    "geo_altitude": 11117.58,
+    "longitude": 17.6375,
+    "latitude": 47.0759
+  },
+  {
+    "icao24": "a39bfa",
+    "callsign": "UAL1403 ",
+    "origin_country": "United States",
+    "velocity": 244.07,
+    "geo_altitude": 11803.38,
+    "longitude": -93.5282,
+    "latitude": 41.5011
+  },
+  {
+    "icao24": "47b217",
+    "callsign": "IGO56K  ",
+    "origin_country": "Norway",
+    "velocity": 239.82,
+    "geo_altitude": 12740.64,
+    "longitude": 10.5393,
+    "latitude": 46.1187
+  },
+  {
+    "icao24": "471efe",
+    "callsign": "WMT7JV  ",
+    "origin_country": "Hungary",
+    "velocity": 216.77,
+    "geo_altitude": 11506.2,
+    "longitude": 17.1166,
+    "latitude": 41.61
+  },
+  {
+    "icao24": "471eff",
+    "callsign": "WZZ93   ",
+    "origin_country": "Hungary",
+    "velocity": 230.47,
+    "geo_altitude": 11788.14,
+    "longitude": 5.9313,
+    "latitude": 50.4781
+  },
+  {
+    "icao24": "3d7f7c",
+    "callsign": "FNK1    ",
+    "origin_country": "Germany",
+    "velocity": 66.06,
+    "geo_altitude": 3268.98,
+    "longitude": 9.5208,
+    "latitude": 53.9247
+  },
+  {
+    "icao24": "471efd",
+    "callsign": "WMT4245 ",
+    "origin_country": "Hungary",
+    "velocity": 3.09,
+    "geo_altitude": 0.0,
+    "longitude": 2.0743,
+    "latitude": 41.2835
+  },
+  {
+    "icao24": "801666",
+    "callsign": "AIC101  ",
+    "origin_country": "India",
+    "velocity": 214.78,
+    "geo_altitude": 12489.18,
+    "longitude": -65.7036,
+    "latitude": 43.9332
+  },
+  {
+    "icao24": "44029f",
+    "callsign": "AUA99HC ",
+    "origin_country": "Austria",
+    "velocity": 125.24,
+    "geo_altitude": 3368.04,
+    "longitude": 16.5672,
+    "latitude": 48.3118
+  },
+  {
+    "icao24": "511195",
+    "callsign": "MBU2QV  ",
+    "origin_country": "Estonia",
+    "velocity": 243.41,
+    "geo_altitude": 11201.4,
+    "longitude": 10.0705,
+    "latitude": 49.8249
+  },
+  {
+    "icao24": "aae377",
+    "callsign": "SKW4144 ",
+    "origin_country": "United States",
+    "velocity": 222.96,
+    "geo_altitude": 11506.2,
+    "longitude": -97.4074,
+    "latitude": 46.784
+  },
+  {
+    "icao24": "a59530",
+    "callsign": "SKW5981 ",
+    "origin_country": "United States",
+    "velocity": 109.58,
+    "geo_altitude": 1226.82,
+    "longitude": -88.1744,
+    "latitude": 42.0032
+  },
+  {
+    "icao24": "aa090a",
+    "callsign": "N746CD  ",
+    "origin_country": "United States",
+    "velocity": 38.59,
+    "geo_altitude": 114.3,
+    "longitude": 5.4919,
+    "latitude": 52.4405
+  },
+  {
+    "icao24": "505f15",
+    "callsign": "ENT1373 ",
+    "origin_country": "Slovakia",
+    "velocity": 92.6,
+    "geo_altitude": 906.78,
+    "longitude": 19.0034,
+    "latitude": 50.476
+  },
+  {
+    "icao24": "4acb42",
+    "callsign": "SAS52A  ",
+    "origin_country": "Sweden",
+    "velocity": 211.99,
+    "geo_altitude": 10454.64,
+    "longitude": 11.8227,
+    "latitude": 61.9149
+  },
+  {
+    "icao24": "4acb45",
+    "callsign": "SAS7309 ",
+    "origin_country": "Sweden",
+    "velocity": 247.94,
+    "geo_altitude": 11993.88,
+    "longitude": 11.5927,
+    "latitude": 55.7497
+  },
+  {
+    "icao24": "aa8079",
+    "callsign": "N776MW  ",
+    "origin_country": "United States",
+    "velocity": 43.73,
+    "geo_altitude": 1219.2,
+    "longitude": -90.6549,
+    "latitude": 42.4618
+  },
+  {
+    "icao24": "3ffc9c",
+    "callsign": "DMNVL   ",
+    "origin_country": "Germany",
+    "velocity": 64.82,
+    "geo_altitude": 449.58,
+    "longitude": 8.1267,
+    "latitude": 53.774
+  },
+  {
+    "icao24": "a127d3",
+    "callsign": "CXK168  ",
+    "origin_country": "United States",
+    "velocity": 59.29,
+    "geo_altitude": 1668.78,
+    "longitude": -112.2928,
+    "latitude": 41.3256
+  },
+  {
+    "icao24": "accd69",
+    "callsign": "DAL2530 ",
+    "origin_country": "United States",
+    "velocity": 247.54,
+    "geo_altitude": 11437.62,
+    "longitude": -120.8051,
+    "latitude": 42.9828
+  },
+  {
+    "icao24": "c03587",
+    "callsign": "CFUHA   ",
+    "origin_country": "Canada",
+    "velocity": 62.38,
+    "geo_altitude": 662.94,
+    "longitude": -123.2938,
+    "latitude": 48.4384
+  },
+  {
+    "icao24": "440248",
+    "callsign": "EJU79AK ",
+    "origin_country": "Austria",
+    "velocity": 223.8,
+    "geo_altitude": 11795.76,
+    "longitude": -3.0071,
+    "latitude": 45.8338
+  },
+  {
+    "icao24": "3455d9",
+    "callsign": "VOE1ST  ",
+    "origin_country": "Spain",
+    "velocity": 146.89,
+    "geo_altitude": 2560.32,
+    "longitude": 18.3337,
+    "latitude": 42.4167
+  },
+  {
+    "icao24": "4acb58",
+    "callsign": "SAS4094 ",
+    "origin_country": "Sweden",
+    "velocity": 200.83,
+    "geo_altitude": 5280.66,
+    "longitude": 15.6496,
+    "latitude": 67.5307
+  },
+  {
+    "icao24": "4acb59",
+    "callsign": "SAS4961 ",
+    "origin_country": "Sweden",
+    "velocity": 234.92,
+    "geo_altitude": 12070.08,
+    "longitude": 5.0374,
+    "latitude": 52.9173
+  },
+  {
+    "icao24": "3d3831",
+    "callsign": "DETNL   ",
+    "origin_country": "Germany",
+    "velocity": 45.42,
+    "geo_altitude": 1386.84,
+    "longitude": 8.7138,
+    "latitude": 54.8595
+  },
+  {
+    "icao24": "44023f",
+    "callsign": "EJU4919 ",
+    "origin_country": "Austria",
+    "velocity": 230.68,
+    "geo_altitude": 11826.24,
+    "longitude": 6.7221,
+    "latitude": 44.5427
+  },
+  {
+    "icao24": "3c5ee7",
+    "callsign": "EWG3HE  ",
+    "origin_country": "Germany",
+    "velocity": 228.52,
+    "geo_altitude": 11788.14,
+    "longitude": 5.3747,
+    "latitude": 46.5092
+  },
+  {
+    "icao24": "3c5ee9",
+    "callsign": "EWG3KF  ",
+    "origin_country": "Germany",
+    "velocity": 232.11,
+    "geo_altitude": 12397.74,
+    "longitude": 9.1707,
+    "latitude": 46.7248
+  },
+  {
+    "icao24": "4bc8cd",
+    "callsign": "PGT85XU ",
+    "origin_country": "Turkey",
+    "velocity": 245.3,
+    "geo_altitude": 11155.68,
+    "longitude": 23.3938,
+    "latitude": 44.4139
+  },
+  {
+    "icao24": "4acb23",
+    "callsign": "NSZ5DM  ",
+    "origin_country": "Sweden",
+    "velocity": 232.64,
+    "geo_altitude": 11765.28,
+    "longitude": 3.0828,
+    "latitude": 54.0521
+  },
+  {
+    "icao24": "4bc8cc",
+    "callsign": "PGT84V  ",
+    "origin_country": "Turkey",
+    "velocity": 252.24,
+    "geo_altitude": 10591.8,
+    "longitude": 24.9622,
+    "latitude": 42.1507
+  },
+  {
+    "icao24": "a8eede",
+    "callsign": "LXJ675  ",
+    "origin_country": "United States",
+    "velocity": 246.44,
+    "geo_altitude": 14074.14,
+    "longitude": -79.4198,
+    "latitude": 47.3541
+  },
+  {
+    "icao24": "3c5ee4",
+    "callsign": "EWG7XB  ",
+    "origin_country": "Germany",
+    "velocity": 238.69,
+    "geo_altitude": 12390.12,
+    "longitude": 11.7298,
+    "latitude": 46.4384
+  },
+  {
+    "icao24": "3c5ee3",
+    "callsign": "EWG9F   ",
+    "origin_country": "Germany",
+    "velocity": 236.71,
+    "geo_altitude": 12108.18,
+    "longitude": 3.3771,
+    "latitude": 49.0607
+  },
+  {
+    "icao24": "ad41ed",
+    "callsign": "AAL1415 ",
+    "origin_country": "United States",
+    "velocity": 235.15,
+    "geo_altitude": 10919.46,
+    "longitude": -112.6428,
+    "latitude": 43.9116
+  },
+  {
+    "icao24": "3c5ef8",
+    "callsign": "EWG6FZ  ",
+    "origin_country": "Germany",
+    "velocity": 235.02,
+    "geo_altitude": 11818.62,
+    "longitude": 18.9862,
+    "latitude": 41.5625
+  },
+  {
+    "icao24": "3d1209",
+    "callsign": "DEFBT   ",
+    "origin_country": "Germany",
+    "velocity": 69.27,
+    "geo_altitude": 3200.4,
+    "longitude": 22.18,
+    "latitude": 46.1529
+  },
+  {
+    "icao24": "46b82a",
+    "callsign": "AEE8BP  ",
+    "origin_country": "Greece",
+    "velocity": 185.84,
+    "geo_altitude": 5882.64,
+    "longitude": 20.4521,
+    "latitude": 46.5753
+  },
+  {
+    "icao24": "3c5eed",
+    "callsign": "EWG1CT  ",
+    "origin_country": "Germany",
+    "velocity": 248.19,
+    "geo_altitude": 11102.34,
+    "longitude": 22.1472,
+    "latitude": 45.742
+  },
+  {
+    "icao24": "4bc8da",
+    "callsign": "PGT839Q ",
+    "origin_country": "Turkey",
+    "velocity": 210.61,
+    "geo_altitude": 10759.44,
+    "longitude": 17.9949,
+    "latitude": 47.1113
+  },
+  {
+    "icao24": "500417",
+    "callsign": "AXS4    ",
+    "origin_country": "San Marino",
+    "velocity": 234.92,
+    "geo_altitude": 12733.02,
+    "longitude": 1.7687,
+    "latitude": 49.6528
+  },
+  {
+    "icao24": "3c5ef5",
+    "callsign": "EWG33X  ",
+    "origin_country": "Germany",
+    "velocity": 230.36,
+    "geo_altitude": 12466.32,
+    "longitude": 0.8271,
+    "latitude": 44.8974
+  },
+  {
+    "icao24": "44025c",
+    "callsign": "SKV557  ",
+    "origin_country": "Austria",
+    "velocity": 151.67,
+    "geo_altitude": 7399.02,
+    "longitude": 2.4971,
+    "latitude": 49.6146
+  },
+  {
+    "icao24": "3c5ef2",
+    "callsign": "EWG5TR  ",
+    "origin_country": "Germany",
+    "velocity": 219.44,
+    "geo_altitude": 11460.48,
+    "longitude": 9.3959,
+    "latitude": 47.8818
+  },
+  {
+    "icao24": "440214",
+    "callsign": "AOJ78Z  ",
+    "origin_country": "Austria",
+    "velocity": 226.0,
+    "geo_altitude": 12832.08,
+    "longitude": 27.9124,
+    "latitude": 42.2901
+  },
+  {
+    "icao24": "46b832",
+    "callsign": "AEE691  ",
+    "origin_country": "Greece",
+    "velocity": 248.4,
+    "geo_altitude": 11178.54,
+    "longitude": 11.2831,
+    "latitude": 42.0362
+  },
+  {
+    "icao24": "46b830",
+    "callsign": "AEE4MI  ",
+    "origin_country": "Greece",
+    "velocity": 228.32,
+    "geo_altitude": 11506.2,
+    "longitude": 12.42,
+    "latitude": 42.8611
+  },
+  {
+    "icao24": "46b835",
+    "callsign": "AEE65R  ",
+    "origin_country": "Greece",
+    "velocity": 4.12,
+    "geo_altitude": 0.0,
+    "longitude": 12.2522,
+    "latitude": 41.8006
+  },
+  {
+    "icao24": "46b836",
+    "callsign": "AEE510  ",
+    "origin_country": "Greece",
+    "velocity": 226.27,
+    "geo_altitude": 11498.58,
+    "longitude": 14.9523,
+    "latitude": 43.1023
+  },
+  {
+    "icao24": "a8eed8",
+    "callsign": "FFT2407 ",
+    "origin_country": "United States",
+    "velocity": 251.41,
+    "geo_altitude": 12054.84,
+    "longitude": -121.2539,
+    "latitude": 43.7058
+  },
+  {
+    "icao24": "440209",
+    "callsign": "EJU53HE ",
+    "origin_country": "Austria",
+    "velocity": 219.38,
+    "geo_altitude": 12138.66,
+    "longitude": 7.1419,
+    "latitude": 43.8528
+  },
+  {
+    "icao24": "46b821",
+    "callsign": "AEE866  ",
+    "origin_country": "Greece",
+    "velocity": 207.15,
+    "geo_altitude": 10416.54,
+    "longitude": 16.6986,
+    "latitude": 48.3767
+  },
+  {
+    "icao24": "46b824",
+    "callsign": "AEE3LG  ",
+    "origin_country": "Greece",
+    "velocity": 11.32,
+    "geo_altitude": 0.0,
+    "longitude": -0.4554,
+    "latitude": 51.4666
+  },
+  {
+    "icao24": "46b825",
+    "callsign": "AEE832  ",
+    "origin_country": "Greece",
+    "velocity": 223.57,
+    "geo_altitude": 10835.64,
+    "longitude": 10.7708,
+    "latitude": 47.3075
+  },
+  {
+    "icao24": "46b826",
+    "callsign": "AEE6TH  ",
+    "origin_country": "Greece",
+    "velocity": 223.72,
+    "geo_altitude": 11468.1,
+    "longitude": 10.3681,
+    "latitude": 46.1666
+  },
+  {
+    "icao24": "4cc2a3",
+    "callsign": "ICE9L   ",
+    "origin_country": "Iceland",
+    "velocity": 130.92,
+    "geo_altitude": 2720.34,
+    "longitude": -22.08,
+    "latitude": 63.9007
+  },
+  {
+    "icao24": "ab6fbf",
+    "callsign": "DAL263  ",
+    "origin_country": "United States",
+    "velocity": 221.54,
+    "geo_altitude": 11056.62,
+    "longitude": -63.2023,
+    "latitude": 47.8762
+  },
+  {
+    "icao24": "4acb5a",
+    "callsign": "SAS4657 ",
+    "origin_country": "Sweden",
+    "velocity": 236.02,
+    "geo_altitude": 11780.52,
+    "longitude": 2.9019,
+    "latitude": 49.183
+  },
+  {
+    "icao24": "44022d",
+    "callsign": "AUA36G  ",
+    "origin_country": "Austria",
+    "velocity": 223.41,
+    "geo_altitude": 10805.16,
+    "longitude": 13.048,
+    "latitude": 48.6788
+  },
+  {
+    "icao24": "47880f",
+    "callsign": "NOZ91C  ",
+    "origin_country": "Norway",
+    "velocity": 255.27,
+    "geo_altitude": 11102.34,
+    "longitude": 10.637,
+    "latitude": 55.6642
+  },
+  {
+    "icao24": "a8a82f",
+    "callsign": "QXE2144 ",
+    "origin_country": "United States",
+    "velocity": 270.33,
+    "geo_altitude": 9906.0,
+    "longitude": -116.2256,
+    "latitude": 50.3617
+  },
+  {
+    "icao24": "3edc76",
+    "callsign": "DKYLI   ",
+    "origin_country": "Germany",
+    "velocity": 30.97,
+    "geo_altitude": 609.6,
+    "longitude": 9.0945,
+    "latitude": 49.9347
+  },
+  {
+    "icao24": "c07bca",
+    "callsign": "CGUWV   ",
+    "origin_country": "Canada",
+    "velocity": 58.73,
+    "geo_altitude": 815.34,
+    "longitude": -74.8163,
+    "latitude": 45.0414
+  },
+  {
+    "icao24": "a63a04",
+    "callsign": "N500AV  ",
+    "origin_country": "United States",
+    "velocity": 69.92,
+    "geo_altitude": 2324.1,
+    "longitude": -4.1029,
+    "latitude": 51.479
+  },
+  {
+    "icao24": "3ffba7",
+    "callsign": "DMMZH   ",
+    "origin_country": "Germany",
+    "velocity": 41.31,
+    "geo_altitude": 0.0,
+    "longitude": 8.1151,
+    "latitude": 49.9405
+  },
+  {
+    "icao24": "4aca9a",
+    "callsign": "NSZ9ED  ",
+    "origin_country": "Sweden",
+    "velocity": 234.81,
+    "geo_altitude": 11780.52,
+    "longitude": 6.6573,
+    "latitude": 51.4554
+  },
+  {
+    "icao24": "c03517",
+    "callsign": "WJA794  ",
+    "origin_country": "Canada",
+    "velocity": 223.39,
+    "geo_altitude": 7239.0,
+    "longitude": -113.1279,
+    "latitude": 51.0535
+  },
+  {
+    "icao24": "394681",
+    "callsign": "FGRUB   ",
+    "origin_country": "France",
+    "velocity": 41.18,
+    "geo_altitude": 4175.76,
+    "longitude": 4.0382,
+    "latitude": 50.3153
+  },
+  {
+    "icao24": "4880d4",
+    "callsign": "SPAGW   ",
+    "origin_country": "Poland",
+    "velocity": 36.32,
+    "geo_altitude": 624.84,
+    "longitude": 20.8805,
+    "latitude": 50.3327
+  },
+  {
+    "icao24": "3ffbc0",
+    "callsign": "DMAOO   ",
+    "origin_country": "Germany",
+    "velocity": 41.67,
+    "geo_altitude": 0.0,
+    "longitude": 12.6671,
+    "latitude": 51.3294
+  },
+  {
+    "icao24": "a63a11",
+    "callsign": "N500BH  ",
+    "origin_country": "United States",
+    "velocity": 56.53,
+    "geo_altitude": 1089.66,
+    "longitude": -6.1253,
+    "latitude": 52.072
+  },
+  {
+    "icao24": "a14a7c",
+    "callsign": "N1820K  ",
+    "origin_country": "United States",
+    "velocity": 69.94,
+    "geo_altitude": 1813.56,
+    "longitude": -121.3009,
+    "latitude": 44.4384
+  },
+  {
+    "icao24": "a52d5c",
+    "callsign": "N4323Q  ",
+    "origin_country": "United States",
+    "velocity": 51.44,
+    "geo_altitude": 1135.38,
+    "longitude": -89.656,
+    "latitude": 45.3465
+  },
+  {
+    "icao24": "4aca81",
+    "callsign": "NSZ4156 ",
+    "origin_country": "Sweden",
+    "velocity": 198.35,
+    "geo_altitude": 7940.04,
+    "longitude": 17.2342,
+    "latitude": 58.4577
+  },
+  {
+    "icao24": "4aca83",
+    "callsign": "NSZ2830 ",
+    "origin_country": "Sweden",
+    "velocity": 248.8,
+    "geo_altitude": 11506.2,
+    "longitude": 22.3019,
+    "latitude": 51.8914
+  },
+  {
+    "icao24": "4aca88",
+    "callsign": "NSZ3AM  ",
+    "origin_country": "Sweden",
+    "velocity": 254.82,
+    "geo_altitude": 11391.9,
+    "longitude": 11.7487,
+    "latitude": 51.7605
+  },
+  {
+    "icao24": "4aca7a",
+    "callsign": "SAS4925 ",
+    "origin_country": "Sweden",
+    "velocity": 217.56,
+    "geo_altitude": 10492.74,
+    "longitude": 6.6603,
+    "latitude": 57.5155
+  },
+  {
+    "icao24": "a9529a",
+    "callsign": "N70EA   ",
+    "origin_country": "United States",
+    "velocity": 62.5,
+    "geo_altitude": 754.38,
+    "longitude": -93.1431,
+    "latitude": 41.3492
+  },
+  {
+    "icao24": "c04850",
+    "callsign": "JZA296  ",
+    "origin_country": "Canada",
+    "velocity": 165.5,
+    "geo_altitude": 7063.74,
+    "longitude": -121.7183,
+    "latitude": 49.2048
+  },
+  {
+    "icao24": "4aca93",
+    "callsign": "NSZ5715 ",
+    "origin_country": "Sweden",
+    "velocity": 241.17,
+    "geo_altitude": 11452.86,
+    "longitude": 7.4692,
+    "latitude": 52.7394
+  },
+  {
+    "icao24": "4aca92",
+    "callsign": "NOZ8BF  ",
+    "origin_country": "Sweden",
+    "velocity": 233.86,
+    "geo_altitude": 11841.48,
+    "longitude": 13.3817,
+    "latitude": 41.4164
+  },
+  {
+    "icao24": "4aca95",
+    "callsign": "NOZ1792 ",
+    "origin_country": "Sweden",
+    "velocity": 234.85,
+    "geo_altitude": 11795.76,
+    "longitude": 2.1764,
+    "latitude": 47.403
+  },
+  {
+    "icao24": "4aca94",
+    "callsign": "NSZ3755 ",
+    "origin_country": "Sweden",
+    "velocity": 96.26,
+    "geo_altitude": 800.1,
+    "longitude": 12.4546,
+    "latitude": 55.4955
+  },
+  {
+    "icao24": "4aca96",
+    "callsign": "NSZ3376 ",
+    "origin_country": "Sweden",
+    "velocity": 262.65,
+    "geo_altitude": 11650.98,
+    "longitude": 14.1982,
+    "latitude": 51.4043
+  },
+  {
+    "icao24": "4aca98",
+    "callsign": "NSZ5074 ",
+    "origin_country": "Sweden",
+    "velocity": 233.34,
+    "geo_altitude": 12108.18,
+    "longitude": 1.3309,
+    "latitude": 48.6978
+  },
+  {
+    "icao24": "3d1289",
+    "callsign": "DEFGR   ",
+    "origin_country": "Germany",
+    "velocity": 41.19,
+    "geo_altitude": 746.76,
+    "longitude": 10.0109,
+    "latitude": 47.8574
+  },
+  {
+    "icao24": "a76d37",
+    "callsign": "N578MC  ",
+    "origin_country": "United States",
+    "velocity": 46.44,
+    "geo_altitude": 571.5,
+    "longitude": -88.5366,
+    "latitude": 43.979
+  },
+  {
+    "icao24": "34448d",
+    "callsign": "IBS1883 ",
+    "origin_country": "Spain",
+    "velocity": 235.11,
+    "geo_altitude": 11422.38,
+    "longitude": -6.5637,
+    "latitude": 51.795
+  },
+  {
+    "icao24": "4aca8a",
+    "callsign": "NSZ4401 ",
+    "origin_country": "Sweden",
+    "velocity": 244.28,
+    "geo_altitude": 11727.18,
+    "longitude": 25.5149,
+    "latitude": 45.3155
+  },
+  {
+    "icao24": "4aca8c",
+    "callsign": "NSZ4370 ",
+    "origin_country": "Sweden",
+    "velocity": 125.54,
+    "geo_altitude": 1828.8,
+    "longitude": 10.3914,
+    "latitude": 43.8242
+  },
+  {
+    "icao24": "4aca8f",
+    "callsign": "NOZ9040 ",
+    "origin_country": "Sweden",
+    "velocity": 255.6,
+    "geo_altitude": 11590.02,
+    "longitude": 19.9159,
+    "latitude": 49.6526
+  },
+  {
+    "icao24": "ad67f3",
+    "callsign": "N963GT  ",
+    "origin_country": "United States",
+    "velocity": 229.24,
+    "geo_altitude": 13769.34,
+    "longitude": -108.4523,
+    "latitude": 43.6009
+  },
+  {
+    "icao24": "3c5eee",
+    "callsign": "EWG437  ",
+    "origin_country": "Germany",
+    "velocity": 209.18,
+    "geo_altitude": 11460.48,
+    "longitude": 9.4889,
+    "latitude": 46.8727
+  },
+  {
+    "icao24": "48f920",
+    "callsign": "SPSDKA  ",
+    "origin_country": "Poland",
+    "velocity": 29.45,
+    "geo_altitude": 655.32,
+    "longitude": 18.7683,
+    "latitude": 49.97
+  },
+  {
+    "icao24": "4520ce",
+    "callsign": "JAF9BV  ",
+    "origin_country": "Bulgaria",
+    "velocity": 242.94,
+    "geo_altitude": 12153.9,
+    "longitude": -0.5327,
+    "latitude": 45.5439
+  },
+  {
+    "icao24": "aa929c",
+    "callsign": "TCN780  ",
+    "origin_country": "United States",
+    "velocity": 265.48,
+    "geo_altitude": 14287.5,
+    "longitude": -91.4536,
+    "latitude": 41.557
+  },
+  {
+    "icao24": "471f9f",
+    "callsign": "WZZ2715 ",
+    "origin_country": "Hungary",
+    "velocity": 211.21,
+    "geo_altitude": 10820.4,
+    "longitude": 15.7399,
+    "latitude": 47.0802
+  },
+  {
+    "icao24": "4a5993",
+    "callsign": "YRVLS   ",
+    "origin_country": "Romania",
+    "velocity": 3.64,
+    "geo_altitude": 304.8,
+    "longitude": 24.5337,
+    "latitude": 46.5352
+  },
+  {
+    "icao24": "471f6f",
+    "callsign": "WMT959  ",
+    "origin_country": "Hungary",
+    "velocity": 129.95,
+    "geo_altitude": 3192.78,
+    "longitude": 10.4192,
+    "latitude": 47.6823
+  },
+  {
+    "icao24": "40323e",
+    "callsign": "GBSSA   ",
+    "origin_country": "United Kingdom",
+    "velocity": 25.21,
+    "geo_altitude": 0.0,
+    "longitude": -2.7537,
+    "latitude": 52.8434
+  },
+  {
+    "icao24": "ac21af",
+    "callsign": "AAL747  ",
+    "origin_country": "United States",
+    "velocity": 206.75,
+    "geo_altitude": 12641.58,
+    "longitude": -68.788,
+    "latitude": 41.4735
+  },
+  {
+    "icao24": "c04825",
+    "callsign": "CGBII   ",
+    "origin_country": "Canada",
+    "velocity": 128.68,
+    "geo_altitude": 6316.98,
+    "longitude": -77.5798,
+    "latitude": 43.9021
+  },
+  {
+    "icao24": "acba30",
+    "callsign": "EDV5330 ",
+    "origin_country": "United States",
+    "velocity": 0.06,
+    "geo_altitude": 0.0,
+    "longitude": -77.664,
+    "latitude": 43.1262
+  },
+  {
+    "icao24": "adb7e7",
+    "callsign": "N983SP  ",
+    "origin_country": "United States",
+    "velocity": 58.87,
+    "geo_altitude": 487.68,
+    "longitude": -88.4393,
+    "latitude": 41.4244
+  },
+  {
+    "icao24": "471f6b",
+    "callsign": "WZZ8YE  ",
+    "origin_country": "Hungary",
+    "velocity": 86.25,
+    "geo_altitude": 632.46,
+    "longitude": 9.1089,
+    "latitude": 55.7443
+  },
+  {
+    "icao24": "a0092f",
+    "callsign": "BRW101  ",
+    "origin_country": "United States",
+    "velocity": 54.57,
+    "geo_altitude": 586.74,
+    "longitude": -93.6484,
+    "latitude": 44.8311
+  },
+  {
+    "icao24": "40588d",
+    "callsign": "A3      ",
+    "origin_country": "United Kingdom",
+    "velocity": 22.92,
+    "geo_altitude": 312.42,
+    "longitude": -1.7944,
+    "latitude": 51.2774
+  },
+  {
+    "icao24": "4a2021",
+    "callsign": "ROT647M ",
+    "origin_country": "Romania",
+    "velocity": 135.99,
+    "geo_altitude": 2164.08,
+    "longitude": 24.2113,
+    "latitude": 46.619
+  },
+  {
+    "icao24": "471f69",
+    "callsign": "WMT33DE ",
+    "origin_country": "Hungary",
+    "velocity": 210.6,
+    "geo_altitude": 11460.48,
+    "longitude": 22.0341,
+    "latitude": 44.3299
+  },
+  {
+    "icao24": "471f67",
+    "callsign": "WMT7YA  ",
+    "origin_country": "Hungary",
+    "velocity": 130.24,
+    "geo_altitude": 1950.72,
+    "longitude": -0.4496,
+    "latitude": 52.0533
+  },
+  {
+    "icao24": "c020be",
+    "callsign": "CAV787  ",
+    "origin_country": "Canada",
+    "velocity": 152.99,
+    "geo_altitude": 6042.66,
+    "longitude": -80.634,
+    "latitude": 44.5195
+  },
+  {
+    "icao24": "a09322",
+    "callsign": "SKW5680 ",
+    "origin_country": "United States",
+    "velocity": 206.15,
+    "geo_altitude": 10881.36,
+    "longitude": -97.7479,
+    "latitude": 45.3022
+  },
+  {
+    "icao24": "a5d1f7",
+    "callsign": "SWA2031 ",
+    "origin_country": "United States",
+    "velocity": 272.42,
+    "geo_altitude": 12344.4,
+    "longitude": -117.4611,
+    "latitude": 45.6617
+  },
+  {
+    "icao24": "471f62",
+    "callsign": "WMT7TQ  ",
+    "origin_country": "Hungary",
+    "velocity": 249.21,
+    "geo_altitude": 11826.24,
+    "longitude": 17.0445,
+    "latitude": 42.595
+  },
+  {
+    "icao24": "a99a3d",
+    "callsign": "SKW4261 ",
+    "origin_country": "United States",
+    "velocity": 226.94,
+    "geo_altitude": 11498.58,
+    "longitude": -99.5542,
+    "latitude": 47.4018
+  },
+  {
+    "icao24": "4400c8",
+    "callsign": "EJU56NU ",
+    "origin_country": "Austria",
+    "velocity": 80.42,
+    "geo_altitude": 845.82,
+    "longitude": 2.444,
+    "latitude": 48.7355
+  },
+  {
+    "icao24": "471f78",
+    "callsign": "WMT685  ",
+    "origin_country": "Hungary",
+    "velocity": 246.41,
+    "geo_altitude": 11056.62,
+    "longitude": 15.7029,
+    "latitude": 47.9126
+  },
+  {
+    "icao24": "471f70",
+    "callsign": "WZZ371D ",
+    "origin_country": "Hungary",
+    "velocity": 199.97,
+    "geo_altitude": 6156.96,
+    "longitude": 18.5968,
+    "latitude": 53.8117
+  },
+  {
+    "icao24": "471f5c",
+    "callsign": "WMT8CT  ",
+    "origin_country": "Hungary",
+    "velocity": 81.22,
+    "geo_altitude": 1348.74,
+    "longitude": 7.4752,
+    "latitude": 47.6683
+  },
+  {
+    "icao24": "4400b3",
+    "callsign": "EJU97LZ ",
+    "origin_country": "Austria",
+    "velocity": 227.22,
+    "geo_altitude": 12115.8,
+    "longitude": 3.1408,
+    "latitude": 49.2616
+  },
+  {
+    "icao24": "4400e3",
+    "callsign": "EJU5407 ",
+    "origin_country": "Austria",
+    "velocity": 223.95,
+    "geo_altitude": 12100.56,
+    "longitude": 6.0131,
+    "latitude": 48.8993
+  },
+  {
+    "icao24": "a00970",
+    "callsign": "N101LL  ",
+    "origin_country": "United States",
+    "velocity": 62.42,
+    "geo_altitude": 2156.46,
+    "longitude": -72.7458,
+    "latitude": 41.3559
+  },
+  {
+    "icao24": "a59601",
+    "callsign": "UAL991  ",
+    "origin_country": "United States",
+    "velocity": 220.16,
+    "geo_altitude": 11841.48,
+    "longitude": -67.793,
+    "latitude": 44.7365
+  },
+  {
+    "icao24": "a5f90e",
+    "callsign": "N484SJ  ",
+    "origin_country": "United States",
+    "velocity": 244.95,
+    "geo_altitude": 10843.26,
+    "longitude": -116.5174,
+    "latitude": 44.1621
+  },
+  {
+    "icao24": "471f55",
+    "callsign": "WMT8801 ",
+    "origin_country": "Hungary",
+    "velocity": 224.45,
+    "geo_altitude": 11178.54,
+    "longitude": 10.4041,
+    "latitude": 44.7633
+  },
+  {
+    "icao24": "c07c7b",
+    "callsign": "ACA562  ",
+    "origin_country": "Canada",
+    "velocity": 7.2,
+    "geo_altitude": 0.0,
+    "longitude": -123.1907,
+    "latitude": 49.1997
+  },
+  {
+    "icao24": "a9c7f6",
+    "callsign": "N7294Y  ",
+    "origin_country": "United States",
+    "velocity": 84.76,
+    "geo_altitude": 2628.9,
+    "longitude": -73.8358,
+    "latitude": 41.5959
+  },
+  {
+    "icao24": "34440b",
+    "callsign": "VLG6311 ",
+    "origin_country": "Spain",
+    "velocity": 219.11,
+    "geo_altitude": 11193.78,
+    "longitude": -2.9956,
+    "latitude": 48.1067
+  },
+  {
+    "icao24": "471f3e",
+    "callsign": "WZZ6674 ",
+    "origin_country": "Hungary",
+    "velocity": 221.73,
+    "geo_altitude": 11460.48,
+    "longitude": 12.5469,
+    "latitude": 46.9223
+  },
+  {
+    "icao24": "471f3d",
+    "callsign": "WZZ839  ",
+    "origin_country": "Hungary",
+    "velocity": 240.15,
+    "geo_altitude": 10782.3,
+    "longitude": 8.3037,
+    "latitude": 50.7847
+  },
+  {
+    "icao24": "a6191c",
+    "callsign": "N492SF  ",
+    "origin_country": "United States",
+    "velocity": 28.85,
+    "geo_altitude": 1059.18,
+    "longitude": -121.9938,
+    "latitude": 47.7573
+  },
+  {
+    "icao24": "c046f4",
+    "callsign": "CGAWP   ",
+    "origin_country": "Canada",
+    "velocity": 144.58,
+    "geo_altitude": 6073.14,
+    "longitude": -95.7199,
+    "latitude": 51.1762
+  },
+  {
+    "icao24": "471f35",
+    "callsign": "WMT936  ",
+    "origin_country": "Hungary",
+    "velocity": 110.52,
+    "geo_altitude": 1661.16,
+    "longitude": 7.9197,
+    "latitude": 45.3726
+  },
+  {
+    "icao24": "a8dd2c",
+    "callsign": "QXE2012 ",
+    "origin_country": "United States",
+    "velocity": 1.8,
+    "geo_altitude": 0.0,
+    "longitude": -122.3093,
+    "latitude": 47.4444
+  },
+  {
+    "icao24": "471f38",
+    "callsign": "WZZ8UW  ",
+    "origin_country": "Hungary",
+    "velocity": 237.66,
+    "geo_altitude": 11430.0,
+    "longitude": 14.1852,
+    "latitude": 47.9695
+  },
+  {
+    "icao24": "3945bc",
+    "callsign": "FJBIJ   ",
+    "origin_country": "France",
+    "velocity": 55.91,
+    "geo_altitude": 1211.58,
+    "longitude": 8.1134,
+    "latitude": 50.6111
+  },
+  {
+    "icao24": "48d169",
+    "callsign": "SPWLK   ",
+    "origin_country": "Poland",
+    "velocity": 36.01,
+    "geo_altitude": 944.88,
+    "longitude": 21.6262,
+    "latitude": 50.7468
+  },
+  {
+    "icao24": "471f31",
+    "callsign": "WMT634  ",
+    "origin_country": "Hungary",
+    "velocity": 247.04,
+    "geo_altitude": 11163.3,
+    "longitude": 19.8514,
+    "latitude": 44.3085
+  },
+  {
+    "icao24": "471f32",
+    "callsign": "WZZ504  ",
+    "origin_country": "Hungary",
+    "velocity": 70.18,
+    "geo_altitude": 922.02,
+    "longitude": 19.964,
+    "latitude": 50.0552
+  },
+  {
+    "icao24": "471f02",
+    "callsign": "WMT5YY  ",
+    "origin_country": "Hungary",
+    "velocity": 243.03,
+    "geo_altitude": 11087.1,
+    "longitude": 14.6071,
+    "latitude": 47.7686
+  },
+  {
+    "icao24": "471f03",
+    "callsign": "WZZ13KX ",
+    "origin_country": "Hungary",
+    "velocity": 220.34,
+    "geo_altitude": 10584.18,
+    "longitude": 15.3541,
+    "latitude": 47.0801
+  },
+  {
+    "icao24": "471f01",
+    "callsign": "WMT9020 ",
+    "origin_country": "Hungary",
+    "velocity": 229.86,
+    "geo_altitude": 10835.64,
+    "longitude": 12.6078,
+    "latitude": 44.3699
+  },
+  {
+    "icao24": "471f04",
+    "callsign": "WMT7675 ",
+    "origin_country": "Hungary",
+    "velocity": 204.69,
+    "geo_altitude": 11247.12,
+    "longitude": 21.9433,
+    "latitude": 48.3577
+  },
+  {
+    "icao24": "a1bfe1",
+    "callsign": "N2112K  ",
+    "origin_country": "United States",
+    "velocity": 52.02,
+    "geo_altitude": 2011.68,
+    "longitude": -112.0177,
+    "latitude": 41.2732
+  },
+  {
+    "icao24": "3ffbbf",
+    "callsign": "DMALW   ",
+    "origin_country": "Germany",
+    "velocity": 28.34,
+    "geo_altitude": 617.22,
+    "longitude": 12.1248,
+    "latitude": 49.6622
+  },
+  {
+    "icao24": "471f05",
+    "callsign": "WZZ1TY  ",
+    "origin_country": "Hungary",
+    "velocity": 8.75,
+    "geo_altitude": 0.0,
+    "longitude": 20.9762,
+    "latitude": 52.165
+  },
+  {
+    "icao24": "a51a87",
+    "callsign": "NDU28   ",
+    "origin_country": "United States",
+    "velocity": 62.76,
+    "geo_altitude": 708.66,
+    "longitude": -97.3027,
+    "latitude": 47.6197
+  },
+  {
+    "icao24": "a831b2",
+    "callsign": "QXE2270 ",
+    "origin_country": "United States",
+    "velocity": 196.39,
+    "geo_altitude": 11079.48,
+    "longitude": -121.3887,
+    "latitude": 44.039
+  },
+  {
+    "icao24": "4400a1",
+    "callsign": "EUROPA3 ",
+    "origin_country": "Austria",
+    "velocity": 49.96,
+    "geo_altitude": 518.16,
+    "longitude": 13.5649,
+    "latitude": 48.3979
+  },
+  {
+    "icao24": "a3560b",
+    "callsign": "DAL303  ",
+    "origin_country": "United States",
+    "velocity": 0.06,
+    "geo_altitude": 0.0,
+    "longitude": -71.0245,
+    "latitude": 42.365
+  },
+  {
+    "icao24": "a63a83",
+    "callsign": "LXJ500  ",
+    "origin_country": "United States",
+    "velocity": 246.16,
+    "geo_altitude": 8481.06,
+    "longitude": -119.7648,
+    "latitude": 47.6012
+  },
+  {
+    "icao24": "a4fa7e",
+    "callsign": "N42NM   ",
+    "origin_country": "United States",
+    "velocity": 73.57,
+    "geo_altitude": 617.22,
+    "longitude": -93.3094,
+    "latitude": 45.3912
+  },
+  {
+    "icao24": "3ffbd6",
+    "callsign": "DMFGK   ",
+    "origin_country": "Germany",
+    "velocity": 53.62,
+    "geo_altitude": 0.0,
+    "longitude": 9.4785,
+    "latitude": 48.8119
+  },
+  {
+    "icao24": "a711bd",
+    "callsign": "N5548F  ",
+    "origin_country": "United States",
+    "velocity": 54.66,
+    "geo_altitude": 2476.5,
+    "longitude": -75.9514,
+    "latitude": 43.3582
+  },
+  {
+    "icao24": "c035aa",
+    "callsign": "CFUIJ   ",
+    "origin_country": "Canada",
+    "velocity": 65.29,
+    "geo_altitude": 1264.92,
+    "longitude": -80.7037,
+    "latitude": 44.2664
+  },
+  {
+    "icao24": "ab5dd4",
+    "callsign": "UAL1448 ",
+    "origin_country": "United States",
+    "velocity": 147.36,
+    "geo_altitude": 1546.86,
+    "longitude": -88.3005,
+    "latitude": 41.8737
+  },
+  {
+    "icao24": "a9c913",
+    "callsign": "N73DX   ",
+    "origin_country": "United States",
+    "velocity": 64.56,
+    "geo_altitude": 571.5,
+    "longitude": -71.2055,
+    "latitude": 42.8627
+  },
+  {
+    "icao24": "3d22bb",
+    "callsign": "DELKD   ",
+    "origin_country": "Germany",
+    "velocity": 65.29,
+    "geo_altitude": 1203.96,
+    "longitude": 8.2154,
+    "latitude": 54.9541
+  },
+  {
+    "icao24": "407b54",
+    "callsign": "WUK4ZU  ",
+    "origin_country": "United Kingdom",
+    "velocity": 221.37,
+    "geo_altitude": 11178.54,
+    "longitude": -3.8634,
+    "latitude": 47.507
+  },
+  {
+    "icao24": "407b55",
+    "callsign": "WUK8SJ  ",
+    "origin_country": "United Kingdom",
+    "velocity": 241.2,
+    "geo_altitude": 11178.54,
+    "longitude": 16.1013,
+    "latitude": 43.7089
+  },
+  {
+    "icao24": "505ceb",
+    "callsign": "TOM37G  ",
+    "origin_country": "Slovakia",
+    "velocity": 238.4,
+    "geo_altitude": 11803.38,
+    "longitude": 22.8491,
+    "latitude": 42.9211
+  },
+  {
+    "icao24": "ac3751",
+    "callsign": "SWA2348 ",
+    "origin_country": "United States",
+    "velocity": 1.29,
+    "geo_altitude": 0.0,
+    "longitude": -122.3062,
+    "latitude": 47.4596
+  },
+  {
+    "icao24": "a5d319",
+    "callsign": "UAL2101 ",
+    "origin_country": "United States",
+    "velocity": 231.15,
+    "geo_altitude": 10888.98,
+    "longitude": -101.5892,
+    "latitude": 45.5776
+  },
+  {
+    "icao24": "a2cce4",
+    "callsign": "GPD28   ",
+    "origin_country": "United States",
+    "velocity": 106.14,
+    "geo_altitude": 1821.18,
+    "longitude": -70.7127,
+    "latitude": 41.4505
+  },
+  {
+    "icao24": "ab1789",
+    "callsign": "N8135A  ",
+    "origin_country": "United States",
+    "velocity": 73.7,
+    "geo_altitude": 2171.7,
+    "longitude": -89.7738,
+    "latitude": 42.6663
+  },
+  {
+    "icao24": "a9ea83",
+    "callsign": "N738TY  ",
+    "origin_country": "United States",
+    "velocity": 46.03,
+    "geo_altitude": 220.98,
+    "longitude": -71.1726,
+    "latitude": 42.7408
+  },
+  {
+    "icao24": "a71337",
+    "callsign": "JIA5216 ",
+    "origin_country": "United States",
+    "velocity": 236.77,
+    "geo_altitude": 6568.44,
+    "longitude": -70.296,
+    "latitude": 43.5095
+  },
+  {
+    "icao24": "c07e62",
+    "callsign": "WJA1530 ",
+    "origin_country": "Canada",
+    "velocity": 222.03,
+    "geo_altitude": 8191.5,
+    "longitude": -112.4874,
+    "latitude": 52.9895
+  },
+  {
+    "icao24": "a5e671",
+    "callsign": "N48BZ   ",
+    "origin_country": "United States",
+    "velocity": 43.92,
+    "geo_altitude": 365.76,
+    "longitude": -88.717,
+    "latitude": 43.4035
+  },
+  {
+    "icao24": "407b1e",
+    "callsign": "GCLWB   ",
+    "origin_country": "United Kingdom",
+    "velocity": 49.24,
+    "geo_altitude": 1287.78,
+    "longitude": 0.9338,
+    "latitude": 52.5285
+  },
+  {
+    "icao24": "c07e59",
+    "callsign": "WJA668  ",
+    "origin_country": "Canada",
+    "velocity": 98.79,
+    "geo_altitude": 1394.46,
+    "longitude": -114.0215,
+    "latitude": 51.1425
+  },
+  {
+    "icao24": "47a039",
+    "callsign": "NOZ84M  ",
+    "origin_country": "Norway",
+    "velocity": 233.05,
+    "geo_altitude": 11803.38,
+    "longitude": 1.4212,
+    "latitude": 46.9313
+  },
+  {
+    "icao24": "a1f014",
+    "callsign": "N224CE  ",
+    "origin_country": "United States",
+    "velocity": 73.61,
+    "geo_altitude": 1623.06,
+    "longitude": 1.3435,
+    "latitude": 50.8682
+  },
+  {
+    "icao24": "a96601",
+    "callsign": "N70413  ",
+    "origin_country": "United States",
+    "velocity": 27.66,
+    "geo_altitude": 259.08,
+    "longitude": -92.8565,
+    "latitude": 44.9987
+  },
+  {
+    "icao24": "407b8b",
+    "callsign": "WUK784  ",
+    "origin_country": "United Kingdom",
+    "velocity": 237.19,
+    "geo_altitude": 10881.36,
+    "longitude": -0.5796,
+    "latitude": 47.0128
+  },
+  {
+    "icao24": "3c4b34",
+    "callsign": "DLH717  ",
+    "origin_country": "Germany",
+    "velocity": 253.08,
+    "geo_altitude": 11711.94,
+    "longitude": 5.2766,
+    "latitude": 55.7222
+  },
+  {
+    "icao24": "a5f938",
+    "callsign": "UAL622  ",
+    "origin_country": "United States",
+    "velocity": 85.4,
+    "geo_altitude": 800.1,
+    "longitude": -88.0687,
+    "latitude": 41.9654
+  },
+  {
+    "icao24": "51104c",
+    "callsign": "ESPWB   ",
+    "origin_country": "Estonia",
+    "velocity": 19.21,
+    "geo_altitude": 121.92,
+    "longitude": 24.7482,
+    "latitude": 59.4565
+  },
+  {
+    "icao24": "a45051",
+    "callsign": "DAL2041 ",
+    "origin_country": "United States",
+    "velocity": 98.26,
+    "geo_altitude": 1082.04,
+    "longitude": -122.3164,
+    "latitude": 47.6246
+  },
+  {
+    "icao24": "c07e02",
+    "callsign": "CGVSR   ",
+    "origin_country": "Canada",
+    "velocity": 83.3,
+    "geo_altitude": 2948.94,
+    "longitude": -77.6654,
+    "latitude": 45.0516
+  },
+  {
+    "icao24": "a4d946",
+    "callsign": "EJA411  ",
+    "origin_country": "United States",
+    "velocity": 192.07,
+    "geo_altitude": 13616.94,
+    "longitude": -83.9422,
+    "latitude": 42.9869
+  },
+  {
+    "icao24": "3430cc",
+    "callsign": "VLG574K ",
+    "origin_country": "Spain",
+    "velocity": 197.53,
+    "geo_altitude": 6332.22,
+    "longitude": -1.0684,
+    "latitude": 50.4471
+  },
+  {
+    "icao24": "a87a97",
+    "callsign": "CMF2644 ",
+    "origin_country": "United States",
+    "velocity": 63.87,
+    "geo_altitude": 1844.04,
+    "longitude": -74.2606,
+    "latitude": 42.9373
+  },
+  {
+    "icao24": "407b7f",
+    "callsign": "GCLYP   ",
+    "origin_country": "United Kingdom",
+    "velocity": 48.18,
+    "geo_altitude": 1363.98,
+    "longitude": -4.7186,
+    "latitude": 50.5696
+  },
+  {
+    "icao24": "a3a63c",
+    "callsign": "N334SA  ",
+    "origin_country": "United States",
+    "velocity": 42.78,
+    "geo_altitude": 396.24,
+    "longitude": -88.6266,
+    "latitude": 42.8876
+  },
+  {
+    "icao24": "407b70",
+    "callsign": "WUK77   ",
+    "origin_country": "United Kingdom",
+    "velocity": 246.15,
+    "geo_altitude": 11087.1,
+    "longitude": 15.0557,
+    "latitude": 48.467
+  },
+  {
+    "icao24": "a9b4de",
+    "callsign": "UAL2654 ",
+    "origin_country": "United States",
+    "velocity": 234.81,
+    "geo_altitude": 10294.62,
+    "longitude": -113.2298,
+    "latitude": 43.6674
+  },
+  {
+    "icao24": "3d22a0",
+    "callsign": "DELJC   ",
+    "origin_country": "Germany",
+    "velocity": 47.69,
+    "geo_altitude": 655.32,
+    "longitude": 11.7797,
+    "latitude": 51.9718
+  },
+  {
+    "icao24": "a3b98e",
+    "callsign": "N339ZS  ",
+    "origin_country": "United States",
+    "velocity": 41.52,
+    "geo_altitude": 571.5,
+    "longitude": -92.7962,
+    "latitude": 44.9286
+  },
+  {
+    "icao24": "3d22b8",
+    "callsign": "DELKA   ",
+    "origin_country": "Germany",
+    "velocity": 73.41,
+    "geo_altitude": 2446.02,
+    "longitude": 7.9064,
+    "latitude": 51.1549
+  },
+  {
+    "icao24": "3c4b4b",
+    "callsign": "EWG73N  ",
+    "origin_country": "Germany",
+    "velocity": 237.27,
+    "geo_altitude": 11689.08,
+    "longitude": 13.9876,
+    "latitude": 44.8213
+  },
+  {
+    "icao24": "3443d5",
+    "callsign": "VLG8TX  ",
+    "origin_country": "Spain",
+    "velocity": 178.6,
+    "geo_altitude": 5219.7,
+    "longitude": 2.1344,
+    "latitude": 41.6387
+  },
+  {
+    "icao24": "3d3720",
+    "callsign": "DETCY   ",
+    "origin_country": "Germany",
+    "velocity": 40.12,
+    "geo_altitude": 914.4,
+    "longitude": 8.0655,
+    "latitude": 50.7209
+  },
+  {
+    "icao24": "a45091",
+    "callsign": "DAL2987 ",
+    "origin_country": "United States",
+    "velocity": 237.63,
+    "geo_altitude": 10187.94,
+    "longitude": -95.4995,
+    "latitude": 44.4716
+  },
+  {
+    "icao24": "440368",
+    "callsign": "OEDMG   ",
+    "origin_country": "Austria",
+    "velocity": 119.57,
+    "geo_altitude": 4107.18,
+    "longitude": 15.7314,
+    "latitude": 48.7013
+  },
+  {
+    "icao24": "a02b3a",
+    "callsign": "N11QB   ",
+    "origin_country": "United States",
+    "velocity": 32.04,
+    "geo_altitude": 502.92,
+    "longitude": -95.8947,
+    "latitude": 41.2895
+  },
+  {
+    "icao24": "c0103a",
+    "callsign": "ACA64   ",
+    "origin_country": "Canada",
+    "velocity": 273.92,
+    "geo_altitude": 11475.72,
+    "longitude": -149.972,
+    "latitude": 56.9959
+  },
+  {
+    "icao24": "c01049",
+    "callsign": "ACA026  ",
+    "origin_country": "Canada",
+    "velocity": 281.62,
+    "geo_altitude": 11955.78,
+    "longitude": -151.301,
+    "latitude": 57.1788
+  },
+  {
+    "icao24": "a6f35c",
+    "callsign": "EJA547  ",
+    "origin_country": "United States",
+    "velocity": 169.36,
+    "geo_altitude": 5120.64,
+    "longitude": -121.7073,
+    "latitude": 47.1626
+  },
+  {
+    "icao24": "3c5db0",
+    "callsign": "KLM57R  ",
+    "origin_country": "Germany",
+    "velocity": 57.62,
+    "geo_altitude": 289.56,
+    "longitude": 5.6395,
+    "latitude": 58.8351
+  },
+  {
+    "icao24": "4aca04",
+    "callsign": "NSZ56KH ",
+    "origin_country": "Sweden",
+    "velocity": 235.14,
+    "geo_altitude": 12367.26,
+    "longitude": 5.243,
+    "latitude": 52.8571
+  },
+  {
+    "icao24": "394813",
+    "callsign": "FGSAT   ",
+    "origin_country": "France",
+    "velocity": 43.97,
+    "geo_altitude": 2293.62,
+    "longitude": 10.9353,
+    "latitude": 45.534
+  },
+  {
+    "icao24": "4aca06",
+    "callsign": "NSZ4351 ",
+    "origin_country": "Sweden",
+    "velocity": 183.92,
+    "geo_altitude": 4396.74,
+    "longitude": 18.5412,
+    "latitude": 59.5238
+  },
+  {
+    "icao24": "4aca08",
+    "callsign": "NSZ3750 ",
+    "origin_country": "Sweden",
+    "velocity": 80.58,
+    "geo_altitude": 45.72,
+    "longitude": 12.6523,
+    "latitude": 55.6156
+  },
+  {
+    "icao24": "4aca07",
+    "callsign": "NSZ5YR  ",
+    "origin_country": "Sweden",
+    "velocity": 234.76,
+    "geo_altitude": 11757.66,
+    "longitude": 4.5798,
+    "latitude": 52.7573
+  },
+  {
+    "icao24": "4aca09",
+    "callsign": "NSZ5372 ",
+    "origin_country": "Sweden",
+    "velocity": 228.15,
+    "geo_altitude": 11513.82,
+    "longitude": 1.0975,
+    "latitude": 44.468
+  },
+  {
+    "icao24": "3ffb4f",
+    "callsign": "DMGVV   ",
+    "origin_country": "Germany",
+    "velocity": 43.26,
+    "geo_altitude": 0.0,
+    "longitude": 11.9773,
+    "latitude": 50.8375
+  },
+  {
+    "icao24": "a45076",
+    "callsign": "N3772M  ",
+    "origin_country": "United States",
+    "velocity": 56.08,
+    "geo_altitude": 899.16,
+    "longitude": -85.7763,
+    "latitude": 43.6941
+  },
+  {
+    "icao24": "a248b4",
+    "callsign": "N2460U  ",
+    "origin_country": "United States",
+    "velocity": 48.37,
+    "geo_altitude": 868.68,
+    "longitude": -93.0433,
+    "latitude": 44.0243
+  },
+  {
+    "icao24": "4aca13",
+    "callsign": "NSZ5362 ",
+    "origin_country": "Sweden",
+    "velocity": 228.31,
+    "geo_altitude": 12344.4,
+    "longitude": 8.9734,
+    "latitude": 53.1974
+  },
+  {
+    "icao24": "4aca12",
+    "callsign": "NSZ74Q  ",
+    "origin_country": "Sweden",
+    "velocity": 252.59,
+    "geo_altitude": 11711.94,
+    "longitude": 10.4285,
+    "latitude": 52.8993
+  },
+  {
+    "icao24": "4aca15",
+    "callsign": "NSZ3644 ",
+    "origin_country": "Sweden",
+    "velocity": 233.52,
+    "geo_altitude": 11445.24,
+    "longitude": 9.0493,
+    "latitude": 46.0223
+  },
+  {
+    "icao24": "440392",
+    "callsign": "AOJ80A  ",
+    "origin_country": "Austria",
+    "velocity": 244.68,
+    "geo_altitude": 13114.02,
+    "longitude": -98.733,
+    "latitude": 42.5494
+  },
+  {
+    "icao24": "4aca0b",
+    "callsign": "NSZ5352 ",
+    "origin_country": "Sweden",
+    "velocity": 226.59,
+    "geo_altitude": 12321.54,
+    "longitude": 8.1202,
+    "latitude": 54.6183
+  },
+  {
+    "icao24": "4aca0a",
+    "callsign": "NSZ5282 ",
+    "origin_country": "Sweden",
+    "velocity": 252.06,
+    "geo_altitude": 11003.28,
+    "longitude": 13.4943,
+    "latitude": 53.8838
+  },
+  {
+    "icao24": "4aca0d",
+    "callsign": "NSZ7DE  ",
+    "origin_country": "Sweden",
+    "velocity": 224.96,
+    "geo_altitude": 12031.98,
+    "longitude": 12.9006,
+    "latitude": 48.7419
+  },
+  {
+    "icao24": "4aca0c",
+    "callsign": "NOZ98X  ",
+    "origin_country": "Sweden",
+    "velocity": 235.08,
+    "geo_altitude": 11803.38,
+    "longitude": 0.9472,
+    "latitude": 45.2098
+  },
+  {
+    "icao24": "a9c959",
+    "callsign": "N73GS   ",
+    "origin_country": "United States",
+    "velocity": 52.9,
+    "geo_altitude": 1074.42,
+    "longitude": -83.4299,
+    "latitude": 43.1968
+  },
+  {
+    "icao24": "489603",
+    "callsign": "SPFRD   ",
+    "origin_country": "Poland",
+    "velocity": 31.68,
+    "geo_altitude": 220.98,
+    "longitude": 16.932,
+    "latitude": 52.9551
+  },
+  {
+    "icao24": "a88cbf",
+    "callsign": "PDT6123 ",
+    "origin_country": "United States",
+    "velocity": 167.1,
+    "geo_altitude": 9044.94,
+    "longitude": -70.2634,
+    "latitude": 43.6139
+  },
+  {
+    "icao24": "a88cbd",
+    "callsign": "N650AC  ",
+    "origin_country": "United States",
+    "velocity": 188.6,
+    "geo_altitude": 3924.3,
+    "longitude": -72.2647,
+    "latitude": 41.7058
+  },
+  {
+    "icao24": "4aca70",
+    "callsign": "SAS2796 ",
+    "origin_country": "Sweden",
+    "velocity": 152.95,
+    "geo_altitude": 2880.36,
+    "longitude": 12.4154,
+    "latitude": 55.193
+  },
+  {
+    "icao24": "8016b4",
+    "callsign": "VTFLX   ",
+    "origin_country": "India",
+    "velocity": 1.03,
+    "geo_altitude": 0.0,
+    "longitude": -0.4307,
+    "latitude": 51.5502
+  },
+  {
+    "icao24": "4aca72",
+    "callsign": "SAS2979 ",
+    "origin_country": "Sweden",
+    "velocity": 160.21,
+    "geo_altitude": 3124.2,
+    "longitude": 12.9241,
+    "latitude": 55.4966
+  },
+  {
+    "icao24": "4aca75",
+    "callsign": "SAS4781 ",
+    "origin_country": "Sweden",
+    "velocity": 248.81,
+    "geo_altitude": 11986.26,
+    "longitude": 13.1115,
+    "latitude": 54.6628
+  },
+  {
+    "icao24": "4aca74",
+    "callsign": "SAS85A  ",
+    "origin_country": "Sweden",
+    "velocity": 223.09,
+    "geo_altitude": 11422.38,
+    "longitude": 6.0781,
+    "latitude": 54.6516
+  },
+  {
+    "icao24": "a9b62c",
+    "callsign": "AAL81   ",
+    "origin_country": "United States",
+    "velocity": 206.53,
+    "geo_altitude": 5067.3,
+    "longitude": -0.2364,
+    "latitude": 51.9397
+  },
+  {
+    "icao24": "4aca76",
+    "callsign": "SAS816  ",
+    "origin_country": "Sweden",
+    "velocity": 156.24,
+    "geo_altitude": 3566.16,
+    "longitude": 10.9004,
+    "latitude": 60.1779
+  },
+  {
+    "icao24": "4aca6a",
+    "callsign": "SAS4117 ",
+    "origin_country": "Sweden",
+    "velocity": 196.39,
+    "geo_altitude": 10858.5,
+    "longitude": 12.9588,
+    "latitude": 65.7132
+  },
+  {
+    "icao24": "4aca6c",
+    "callsign": "SAS797  ",
+    "origin_country": "Sweden",
+    "velocity": 229.68,
+    "geo_altitude": 11811.0,
+    "longitude": 0.8619,
+    "latitude": 46.1639
+  },
+  {
+    "icao24": "4aca6e",
+    "callsign": "SAS4113 ",
+    "origin_country": "Sweden",
+    "velocity": 83.53,
+    "geo_altitude": 784.86,
+    "longitude": 11.059,
+    "latitude": 60.0911
+  },
+  {
+    "icao24": "471fa9",
+    "callsign": "WZZ6658 ",
+    "origin_country": "Hungary",
+    "velocity": 0.0,
+    "geo_altitude": 0.0,
+    "longitude": 10.0036,
+    "latitude": 53.6337
+  },
+  {
+    "icao24": "471fa1",
+    "callsign": "WZZ9AH  ",
+    "origin_country": "Hungary",
+    "velocity": 226.08,
+    "geo_altitude": 11163.3,
+    "longitude": 11.0953,
+    "latitude": 44.3975
+  },
+  {
+    "icao24": "471fa2",
+    "callsign": "WZZ822  ",
+    "origin_country": "Hungary",
+    "velocity": 239.04,
+    "geo_altitude": 10553.7,
+    "longitude": 25.1977,
+    "latitude": 43.7193
+  },
+  {
+    "icao24": "3ffb0a",
+    "callsign": "DMGFH   ",
+    "origin_country": "Germany",
+    "velocity": 38.07,
+    "geo_altitude": 1508.76,
+    "longitude": 10.5848,
+    "latitude": 48.0216
+  },
+  {
+    "icao24": "471fa7",
+    "callsign": "WZZ44   ",
+    "origin_country": "Hungary",
+    "velocity": 208.41,
+    "geo_altitude": 10751.82,
+    "longitude": 16.4447,
+    "latitude": 48.2157
+  },
+  {
+    "icao24": "ab5dab",
+    "callsign": "SKW3533 ",
+    "origin_country": "United States",
+    "velocity": 99.8,
+    "geo_altitude": 685.8,
+    "longitude": -76.3123,
+    "latitude": 43.102
+  },
+  {
+    "icao24": "471fa5",
+    "callsign": "WZZ8QA  ",
+    "origin_country": "Hungary",
+    "velocity": 146.74,
+    "geo_altitude": 1935.48,
+    "longitude": 27.3519,
+    "latitude": 43.3192
+  },
+  {
+    "icao24": "3ffb0c",
+    "callsign": "DMYYV   ",
+    "origin_country": "Germany",
+    "velocity": 50.39,
+    "geo_altitude": 1219.2,
+    "longitude": 11.2715,
+    "latitude": 52.966
+  },
+  {
+    "icao24": "a27e61",
+    "callsign": "N26TV   ",
+    "origin_country": "United States",
+    "velocity": 150.46,
+    "geo_altitude": 5204.46,
+    "longitude": -122.0871,
+    "latitude": 47.026
+  },
+  {
+    "icao24": "505cf2",
+    "callsign": "OMM540  ",
+    "origin_country": "Slovakia",
+    "velocity": 53.61,
+    "geo_altitude": 800.1,
+    "longitude": 21.14,
+    "latitude": 47.4064
+  },
+  {
+    "icao24": "44034b",
+    "callsign": "EJU48NC ",
+    "origin_country": "Austria",
+    "velocity": 238.85,
+    "geo_altitude": 11071.86,
+    "longitude": 4.9742,
+    "latitude": 44.3504
+  },
+  {
+    "icao24": "471fac",
+    "callsign": "WZZ268  ",
+    "origin_country": "Hungary",
+    "velocity": 245.89,
+    "geo_altitude": 11140.44,
+    "longitude": 13.7836,
+    "latitude": 46.2156
+  },
+  {
+    "icao24": "471fae",
+    "callsign": "WMT9JM  ",
+    "origin_country": "Hungary",
+    "velocity": 208.66,
+    "geo_altitude": 6789.42,
+    "longitude": 22.273,
+    "latitude": 46.7176
+  },
+  {
+    "icao24": "3edb51",
+    "callsign": "DKYAB   ",
+    "origin_country": "Germany",
+    "velocity": 46.62,
+    "geo_altitude": 3185.16,
+    "longitude": 10.4438,
+    "latitude": 47.1952
+  },
+  {
+    "icao24": "440346",
+    "callsign": "OE5679  ",
+    "origin_country": "Austria",
+    "velocity": 36.58,
+    "geo_altitude": 3710.94,
+    "longitude": 10.1973,
+    "latitude": 46.9678
+  },
+  {
+    "icao24": "4aca4a",
+    "callsign": "NSZ4395 ",
+    "origin_country": "Sweden",
+    "velocity": 231.26,
+    "geo_altitude": 11826.24,
+    "longitude": 22.046,
+    "latitude": 42.3774
+  },
+  {
+    "icao24": "4aca4f",
+    "callsign": "NSZ4527 ",
+    "origin_country": "Sweden",
+    "velocity": 223.27,
+    "geo_altitude": 11201.4,
+    "longitude": -1.4739,
+    "latitude": 43.0221
+  },
+  {
+    "icao24": "a02b76",
+    "callsign": "N11SM   ",
+    "origin_country": "United States",
+    "velocity": 85.85,
+    "geo_altitude": 3604.26,
+    "longitude": -118.6878,
+    "latitude": 45.9698
+  },
+  {
+    "icao24": "a26b24",
+    "callsign": "N255M   ",
+    "origin_country": "United States",
+    "velocity": 4.63,
+    "geo_altitude": 0.0,
+    "longitude": -117.5304,
+    "latitude": 47.6179
+  },
+  {
+    "icao24": "c07ca5",
+    "callsign": "CGVFG   ",
+    "origin_country": "Canada",
+    "velocity": 42.62,
+    "geo_altitude": 1821.18,
+    "longitude": -114.6977,
+    "latitude": 51.3235
+  },
+  {
+    "icao24": "38279d",
+    "callsign": "FJGPX   ",
+    "origin_country": "France",
+    "velocity": 61.71,
+    "geo_altitude": 1264.92,
+    "longitude": 2.2182,
+    "latitude": 50.3851
+  },
+  {
+    "icao24": "a5e5ae",
+    "callsign": "N47955  ",
+    "origin_country": "United States",
+    "velocity": 57.56,
+    "geo_altitude": 1554.48,
+    "longitude": -91.5019,
+    "latitude": 45.4628
+  },
+  {
+    "icao24": "c0360e",
+    "callsign": "WJA515  ",
+    "origin_country": "Canada",
+    "velocity": 200.3,
+    "geo_altitude": 11795.76,
+    "longitude": -118.987,
+    "latitude": 50.6716
+  },
+  {
+    "icao24": "a5e5d1",
+    "callsign": "N47965  ",
+    "origin_country": "United States",
+    "velocity": 38.91,
+    "geo_altitude": 937.26,
+    "longitude": -116.2504,
+    "latitude": 43.5727
+  },
+  {
+    "icao24": "acce36",
+    "callsign": "NDU24   ",
+    "origin_country": "United States",
+    "velocity": 41.47,
+    "geo_altitude": 1630.68,
+    "longitude": -96.9453,
+    "latitude": 48.3772
+  },
+  {
+    "icao24": "398de4",
+    "callsign": "FHDPE   ",
+    "origin_country": "France",
+    "velocity": 58.24,
+    "geo_altitude": 1478.28,
+    "longitude": 5.7337,
+    "latitude": 46.01
+  },
+  {
+    "icao24": "a38b3a",
+    "callsign": "N3274E  ",
+    "origin_country": "United States",
+    "velocity": 59.38,
+    "geo_altitude": 1752.6,
+    "longitude": -93.8049,
+    "latitude": 45.3525
+  },
+  {
+    "icao24": "a39e6b",
+    "callsign": "DAL2983 ",
+    "origin_country": "United States",
+    "velocity": 243.25,
+    "geo_altitude": 9281.16,
+    "longitude": -89.8835,
+    "latitude": 43.6016
+  },
+  {
+    "icao24": "a9a397",
+    "callsign": "ASA338  ",
+    "origin_country": "United States",
+    "velocity": 235.57,
+    "geo_altitude": 10850.88,
+    "longitude": -88.1694,
+    "latitude": 44.9099
+  },
+  {
+    "icao24": "c04970",
+    "callsign": "CGBVB   ",
+    "origin_country": "Canada",
+    "velocity": 120.98,
+    "geo_altitude": 4671.06,
+    "longitude": -81.2069,
+    "latitude": 45.1714
+  },
+  {
+    "icao24": "ad8b1d",
+    "callsign": "ASA321  ",
+    "origin_country": "United States",
+    "velocity": 0.0,
+    "geo_altitude": 0.0,
+    "longitude": -149.9859,
+    "latitude": 61.1746
+  },
+  {
+    "icao24": "a462fa",
+    "callsign": "N382CR  ",
+    "origin_country": "United States",
+    "velocity": 80.81,
+    "geo_altitude": 1066.8,
+    "longitude": -83.1999,
+    "latitude": 43.1561
+  },
+  {
+    "icao24": "a3db0c",
+    "callsign": "CNS228  ",
+    "origin_country": "United States",
+    "velocity": 120.1,
+    "geo_altitude": 929.64,
+    "longitude": -71.248,
+    "latitude": 42.089
+  },
+  {
+    "icao24": "a0f70c",
+    "callsign": "SKW5475 ",
+    "origin_country": "United States",
+    "velocity": 184.17,
+    "geo_altitude": 11490.96,
+    "longitude": -93.4547,
+    "latitude": 47.5473
+  },
+  {
+    "icao24": "3c4ad7",
+    "callsign": "DLH3CF  ",
+    "origin_country": "Germany",
+    "velocity": 263.37,
+    "geo_altitude": 11445.24,
+    "longitude": -85.5994,
+    "latitude": 44.9045
+  },
+  {
+    "icao24": "a9536a",
+    "callsign": "NJM70   ",
+    "origin_country": "United States",
+    "velocity": 229.87,
+    "geo_altitude": 7376.16,
+    "longitude": -88.9741,
+    "latitude": 44.7183
+  },
+  {
+    "icao24": "34324f",
+    "callsign": "IBE04DB ",
+    "origin_country": "Spain",
+    "velocity": 188.55,
+    "geo_altitude": 4320.54,
+    "longitude": -3.764,
+    "latitude": 43.1289
+  },
+  {
+    "icao24": "34324e",
+    "callsign": "IBE04HT ",
+    "origin_country": "Spain",
+    "velocity": 224.34,
+    "geo_altitude": 8397.24,
+    "longitude": -3.9294,
+    "latitude": 41.874
+  },
+  {
+    "icao24": "a64e35",
+    "callsign": "N505TJ  ",
+    "origin_country": "United States",
+    "velocity": 35.47,
+    "geo_altitude": 320.04,
+    "longitude": -78.6065,
+    "latitude": 42.9795
+  },
+  {
+    "icao24": "aa8081",
+    "callsign": "NDU76   ",
+    "origin_country": "United States",
+    "velocity": 42.19,
+    "geo_altitude": 1676.4,
+    "longitude": -96.976,
+    "latitude": 47.5642
+  },
+  {
+    "icao24": "39348e",
+    "callsign": "TVF8965 ",
+    "origin_country": "France",
+    "velocity": 213.86,
+    "geo_altitude": 12131.04,
+    "longitude": 9.112,
+    "latitude": 44.2857
+  },
+  {
+    "icao24": "a52e5b",
+    "callsign": "ATN3346 ",
+    "origin_country": "United States",
+    "velocity": 264.36,
+    "geo_altitude": 11871.96,
+    "longitude": -101.1619,
+    "latitude": 41.5265
+  },
+  {
+    "icao24": "4521ba",
+    "callsign": "LOT5PR  ",
+    "origin_country": "Bulgaria",
+    "velocity": 232.28,
+    "geo_altitude": 12207.24,
+    "longitude": 29.0364,
+    "latitude": 42.2738
+  },
+  {
+    "icao24": "4bc852",
+    "callsign": "PGT956  ",
+    "origin_country": "Turkey",
+    "velocity": 158.39,
+    "geo_altitude": 3589.02,
+    "longitude": 6.4002,
+    "latitude": 46.3127
+  },
+  {
+    "icao24": "4521c4",
+    "callsign": "GPX4AV  ",
+    "origin_country": "Bulgaria",
+    "velocity": 233.43,
+    "geo_altitude": 10683.24,
+    "longitude": 19.0855,
+    "latitude": 42.8867
+  },
+  {
+    "icao24": "4401da",
+    "callsign": "SKV112  ",
+    "origin_country": "Austria",
+    "velocity": 237.25,
+    "geo_altitude": 13670.28,
+    "longitude": 0.0932,
+    "latitude": 46.3213
+  },
+  {
+    "icao24": "c021f6",
+    "callsign": "WJA225  ",
+    "origin_country": "Canada",
+    "velocity": 208.14,
+    "geo_altitude": 12633.96,
+    "longitude": -105.2059,
+    "latitude": 50.7336
+  },
+  {
+    "icao24": "4bc84e",
+    "callsign": "PGT3MF  ",
+    "origin_country": "Turkey",
+    "velocity": 243.7,
+    "geo_altitude": 11117.58,
+    "longitude": 12.1038,
+    "latitude": 49.2038
+  },
+  {
+    "icao24": "4b5206",
+    "callsign": "HB3423  ",
+    "origin_country": "Switzerland",
+    "velocity": 32.88,
+    "geo_altitude": 0.0,
+    "longitude": 7.6662,
+    "latitude": 47.3442
+  },
+  {
+    "icao24": "a23754",
+    "callsign": "N2419L  ",
+    "origin_country": "United States",
+    "velocity": 30.51,
+    "geo_altitude": 426.72,
+    "longitude": -85.5457,
+    "latitude": 42.2123
+  },
+  {
+    "icao24": "a1175a",
+    "callsign": "N17FJ   ",
+    "origin_country": "United States",
+    "velocity": 269.71,
+    "geo_altitude": 14226.54,
+    "longitude": -84.4401,
+    "latitude": 42.9806
+  },
+  {
+    "icao24": "4521b2",
+    "callsign": "GPX2MI  ",
+    "origin_country": "Bulgaria",
+    "velocity": 207.19,
+    "geo_altitude": 0.0,
+    "longitude": 17.928,
+    "latitude": 43.1764
+  },
+  {
+    "icao24": "acccf7",
+    "callsign": "N9239W  ",
+    "origin_country": "United States",
+    "velocity": 59.38,
+    "geo_altitude": 3116.58,
+    "longitude": -71.3653,
+    "latitude": 42.9667
+  },
+  {
+    "icao24": "a35725",
+    "callsign": "N314RA  ",
+    "origin_country": "United States",
+    "velocity": 52.14,
+    "geo_altitude": 1409.7,
+    "longitude": -76.6669,
+    "latitude": 42.5748
+  },
+  {
+    "icao24": "a03dfe",
+    "callsign": "N1144L  ",
+    "origin_country": "United States",
+    "velocity": 48.37,
+    "geo_altitude": 1089.66,
+    "longitude": -85.8937,
+    "latitude": 43.6282
+  },
+  {
+    "icao24": "a9eb3c",
+    "callsign": "N73808  ",
+    "origin_country": "United States",
+    "velocity": 39.1,
+    "geo_altitude": 297.18,
+    "longitude": -93.8431,
+    "latitude": 45.1656
+  },
+  {
+    "icao24": "aa92fb",
+    "callsign": "UAL933  ",
+    "origin_country": "United States",
+    "velocity": 2.57,
+    "geo_altitude": 0.0,
+    "longitude": 8.535,
+    "latitude": 50.0339
+  },
+  {
+    "icao24": "aa92fa",
+    "callsign": "UAL885  ",
+    "origin_country": "United States",
+    "velocity": 232.31,
+    "geo_altitude": 11376.66,
+    "longitude": -64.3174,
+    "latitude": 48.129
+  },
+  {
+    "icao24": "ada699",
+    "callsign": "RPA4347 ",
+    "origin_country": "United States",
+    "velocity": 200.46,
+    "geo_altitude": 5699.76,
+    "longitude": -74.2324,
+    "latitude": 42.0429
+  },
+  {
+    "icao24": "c06a7b",
+    "callsign": "TSC283  ",
+    "origin_country": "Canada",
+    "velocity": 224.66,
+    "geo_altitude": 10599.42,
+    "longitude": -75.5351,
+    "latitude": 46.8572
+  },
+  {
+    "icao24": "a87b97",
+    "callsign": "N646AT  ",
+    "origin_country": "United States",
+    "velocity": 87.89,
+    "geo_altitude": 731.52,
+    "longitude": -149.9751,
+    "latitude": 61.2715
+  },
+  {
+    "icao24": "0d113a",
+    "callsign": "AMX695  ",
+    "origin_country": "Mexico",
+    "velocity": 202.39,
+    "geo_altitude": 9265.92,
+    "longitude": -122.5446,
+    "latitude": 47.8968
+  },
+  {
+    "icao24": "a0f740",
+    "callsign": "        ",
+    "origin_country": "United States",
+    "velocity": 148.21,
+    "geo_altitude": 7299.96,
+    "longitude": -130.7904,
+    "latitude": 54.0763
+  },
+  {
+    "icao24": "4bc849",
+    "callsign": "PGT91N  ",
+    "origin_country": "Turkey",
+    "velocity": 248.13,
+    "geo_altitude": 10584.18,
+    "longitude": 23.9384,
+    "latitude": 43.2354
+  },
+  {
+    "icao24": "ad4390",
+    "callsign": "AAL2520 ",
+    "origin_country": "United States",
+    "velocity": 230.48,
+    "geo_altitude": 10904.22,
+    "longitude": -92.9821,
+    "latitude": 43.1086
+  },
+  {
+    "icao24": "4bc848",
+    "callsign": "PGT40XK ",
+    "origin_country": "Turkey",
+    "velocity": 248.36,
+    "geo_altitude": 10248.9,
+    "longitude": 12.0695,
+    "latitude": 45.2446
+  },
+  {
+    "icao24": "4bc845",
+    "callsign": "PGT585J ",
+    "origin_country": "Turkey",
+    "velocity": 219.57,
+    "geo_altitude": 11292.84,
+    "longitude": 21.962,
+    "latitude": 43.6939
+  },
+  {
+    "icao24": "4bc846",
+    "callsign": "PGT26DX ",
+    "origin_country": "Turkey",
+    "velocity": 245.79,
+    "geo_altitude": 10477.5,
+    "longitude": 14.4882,
+    "latitude": 48.2058
+  },
+  {
+    "icao24": "a9b5e7",
+    "callsign": "N7248Q  ",
+    "origin_country": "United States",
+    "velocity": 56.07,
+    "geo_altitude": 1356.36,
+    "longitude": -123.1961,
+    "latitude": 42.4308
+  },
+  {
+    "icao24": "4bc843",
+    "callsign": "PGT39JE ",
+    "origin_country": "Turkey",
+    "velocity": 249.5,
+    "geo_altitude": 11071.86,
+    "longitude": 25.0898,
+    "latitude": 45.4617
+  },
+  {
+    "icao24": "4bc841",
+    "callsign": "PGT978  ",
+    "origin_country": "Turkey",
+    "velocity": 228.96,
+    "geo_altitude": 8077.2,
+    "longitude": 15.0981,
+    "latitude": 52.1057
+  },
+  {
+    "icao24": "4401dc",
+    "callsign": "EJU78UE ",
+    "origin_country": "Austria",
+    "velocity": 216.98,
+    "geo_altitude": 11818.62,
+    "longitude": -2.6206,
+    "latitude": 42.5619
+  },
+  {
+    "icao24": "4bc850",
+    "callsign": "PGT9JQ  ",
+    "origin_country": "Turkey",
+    "velocity": 236.56,
+    "geo_altitude": 11170.92,
+    "longitude": 25.2126,
+    "latitude": 43.8068
+  },
+  {
+    "icao24": "4401ea",
+    "callsign": "JTY52W  ",
+    "origin_country": "Austria",
+    "velocity": 123.28,
+    "geo_altitude": 2034.54,
+    "longitude": -0.7973,
+    "latitude": 51.0117
+  },
+  {
+    "icao24": "4bc88c",
+    "callsign": "PGT598C ",
+    "origin_country": "Turkey",
+    "velocity": 215.94,
+    "geo_altitude": 10866.12,
+    "longitude": 22.7828,
+    "latitude": 43.3983
+  },
+  {
+    "icao24": "4bc88a",
+    "callsign": "PGT1175 ",
+    "origin_country": "Turkey",
+    "velocity": 207.02,
+    "geo_altitude": 11384.28,
+    "longitude": 17.0836,
+    "latitude": 47.8236
+  },
+  {
+    "icao24": "4bc88b",
+    "callsign": "PGT19QR ",
+    "origin_country": "Turkey",
+    "velocity": 193.19,
+    "geo_altitude": 7071.36,
+    "longitude": 10.4984,
+    "latitude": 49.3403
+  },
+  {
+    "icao24": "4bc896",
+    "callsign": "PGT48AA ",
+    "origin_country": "Turkey",
+    "velocity": 252.16,
+    "geo_altitude": 10904.22,
+    "longitude": 17.2689,
+    "latitude": 55.904
+  },
+  {
+    "icao24": "4787b3",
+    "callsign": "NOZ1855 ",
+    "origin_country": "Norway",
+    "velocity": 210.57,
+    "geo_altitude": 11711.94,
+    "longitude": 10.3294,
+    "latitude": 53.2531
+  },
+  {
+    "icao24": "3d1176",
+    "callsign": "DEEWC   ",
+    "origin_country": "Germany",
+    "velocity": 64.42,
+    "geo_altitude": 1874.52,
+    "longitude": 13.6236,
+    "latitude": 52.8027
+  },
+  {
+    "icao24": "3ffad1",
+    "callsign": "DMDYD   ",
+    "origin_country": "Germany",
+    "velocity": 41.07,
+    "geo_altitude": 830.58,
+    "longitude": 11.4464,
+    "latitude": 49.3922
+  },
+  {
+    "icao24": "ad438e",
+    "callsign": "AIRLIFT ",
+    "origin_country": "United States",
+    "velocity": 60.97,
+    "geo_altitude": 228.6,
+    "longitude": -122.8577,
+    "latitude": 47.1075
+  },
+  {
+    "icao24": "c021b5",
+    "callsign": "CFMTW   ",
+    "origin_country": "Canada",
+    "velocity": 53.38,
+    "geo_altitude": 784.86,
+    "longitude": -80.5296,
+    "latitude": 43.4114
+  },
+  {
+    "icao24": "34450d",
+    "callsign": "7777XASP",
+    "origin_country": "Spain",
+    "velocity": 0.0,
+    "geo_altitude": 0.0,
+    "longitude": -8.3744,
+    "latitude": 43.3069
+  },
+  {
+    "icao24": "3d1187",
+    "callsign": "DEEWT   ",
+    "origin_country": "Germany",
+    "velocity": 58.93,
+    "geo_altitude": 1165.86,
+    "longitude": 8.3498,
+    "latitude": 48.3083
+  },
+  {
+    "icao24": "3d1186",
+    "callsign": "DEEWS   ",
+    "origin_country": "Germany",
+    "velocity": 58.58,
+    "geo_altitude": 2072.64,
+    "longitude": 8.8507,
+    "latitude": 50.708
+  },
+  {
+    "icao24": "4b5243",
+    "callsign": "HB3484  ",
+    "origin_country": "Switzerland",
+    "velocity": 34.0,
+    "geo_altitude": 1272.54,
+    "longitude": 8.82,
+    "latitude": 47.5951
+  },
+  {
+    "icao24": "3d118c",
+    "callsign": "DEEWY   ",
+    "origin_country": "Germany",
+    "velocity": 50.73,
+    "geo_altitude": 2598.42,
+    "longitude": 9.9514,
+    "latitude": 48.0975
+  },
+  {
+    "icao24": "4bc883",
+    "callsign": "PGT462Z ",
+    "origin_country": "Turkey",
+    "velocity": 268.31,
+    "geo_altitude": 11102.34,
+    "longitude": 22.4905,
+    "latitude": 45.9721
+  },
+  {
+    "icao24": "4bc884",
+    "callsign": "PGT1158 ",
+    "origin_country": "Turkey",
+    "velocity": 240.1,
+    "geo_altitude": 10507.98,
+    "longitude": 11.5833,
+    "latitude": 48.5275
+  },
+  {
+    "icao24": "4bc882",
+    "callsign": "PGT907  ",
+    "origin_country": "Turkey",
+    "velocity": 184.52,
+    "geo_altitude": 6073.14,
+    "longitude": 29.2018,
+    "latitude": 41.3312
+  },
+  {
+    "icao24": "a2241b",
+    "callsign": "N237SK  ",
+    "origin_country": "United States",
+    "velocity": 64.95,
+    "geo_altitude": 1028.7,
+    "longitude": -90.8463,
+    "latitude": 42.2965
+  },
+  {
+    "icao24": "c06a50",
+    "callsign": "MCB03   ",
+    "origin_country": "Canada",
+    "velocity": 90.55,
+    "geo_altitude": 3017.52,
+    "longitude": -97.3721,
+    "latitude": 50.0431
+  },
+  {
+    "icao24": "4bc887",
+    "callsign": "PGT49PK ",
+    "origin_country": "Turkey",
+    "velocity": 206.42,
+    "geo_altitude": 7711.44,
+    "longitude": 14.9075,
+    "latitude": 51.8689
+  },
+  {
+    "icao24": "4bc885",
+    "callsign": "PGT77PX ",
+    "origin_country": "Turkey",
+    "velocity": 241.2,
+    "geo_altitude": 11140.44,
+    "longitude": 10.035,
+    "latitude": 49.0865
+  },
+  {
+    "icao24": "4bc895",
+    "callsign": "PGT703B ",
+    "origin_country": "Turkey",
+    "velocity": 249.58,
+    "geo_altitude": 11117.58,
+    "longitude": 23.271,
+    "latitude": 44.3202
+  },
+  {
+    "icao24": "aaf5b1",
+    "callsign": "DAL73   ",
+    "origin_country": "United States",
+    "velocity": 225.48,
+    "geo_altitude": 11887.2,
+    "longitude": -71.9129,
+    "latitude": 43.7994
+  },
+  {
+    "icao24": "4bc890",
+    "callsign": "PGT950  ",
+    "origin_country": "Turkey",
+    "velocity": 258.85,
+    "geo_altitude": 10507.98,
+    "longitude": 13.3971,
+    "latitude": 46.7262
+  },
+  {
+    "icao24": "ab15c2",
+    "callsign": "DAL312  ",
+    "origin_country": "United States",
+    "velocity": 236.11,
+    "geo_altitude": 11521.44,
+    "longitude": -98.1068,
+    "latitude": 42.6746
+  },
+  {
+    "icao24": "ac7e0e",
+    "callsign": "N904AF  ",
+    "origin_country": "United States",
+    "velocity": 11.56,
+    "geo_altitude": 975.36,
+    "longitude": -122.9546,
+    "latitude": 42.6171
+  },
+  {
+    "icao24": "44008f",
+    "callsign": "AUA33B  ",
+    "origin_country": "Austria",
+    "velocity": 217.68,
+    "geo_altitude": 12009.12,
+    "longitude": 13.4204,
+    "latitude": 49.5104
+  },
+  {
+    "icao24": "4bb47a",
+    "callsign": "MNB212  ",
+    "origin_country": "Turkey",
+    "velocity": 238.3,
+    "geo_altitude": 11483.34,
+    "longitude": 2.4696,
+    "latitude": 51.3823
+  },
+  {
+    "icao24": "a0f355",
+    "callsign": "SKW5447 ",
+    "origin_country": "United States",
+    "velocity": 139.03,
+    "geo_altitude": 2186.94,
+    "longitude": -89.0635,
+    "latitude": 42.5607
+  },
+  {
+    "icao24": "a66fc1",
+    "callsign": "N5136C  ",
+    "origin_country": "United States",
+    "velocity": 41.98,
+    "geo_altitude": 541.02,
+    "longitude": -72.0311,
+    "latitude": 42.5358
+  },
+  {
+    "icao24": "3c01c3",
+    "callsign": "CFG1NA  ",
+    "origin_country": "Germany",
+    "velocity": 62.81,
+    "geo_altitude": 259.08,
+    "longitude": 8.512,
+    "latitude": 50.0222
+  },
+  {
+    "icao24": "4068f5",
+    "callsign": "EXS652R ",
+    "origin_country": "United Kingdom",
+    "velocity": 235.57,
+    "geo_altitude": 11795.76,
+    "longitude": 14.2557,
+    "latitude": 44.4095
+  },
+  {
+    "icao24": "801859",
+    "callsign": "AIC131  ",
+    "origin_country": "India",
+    "velocity": 236.69,
+    "geo_altitude": 12778.74,
+    "longitude": 18.065,
+    "latitude": 41.437
+  },
+  {
+    "icao24": "c07b05",
+    "callsign": "ACA176  ",
+    "origin_country": "Canada",
+    "velocity": 219.26,
+    "geo_altitude": 5349.24,
+    "longitude": -80.4931,
+    "latitude": 44.4092
+  },
+  {
+    "icao24": "4068cb",
+    "callsign": "EXS93CE ",
+    "origin_country": "United Kingdom",
+    "velocity": 234.29,
+    "geo_altitude": 10500.36,
+    "longitude": 10.0281,
+    "latitude": 49.4615
+  },
+  {
+    "icao24": "a5f624",
+    "callsign": "N4830P  ",
+    "origin_country": "United States",
+    "velocity": 53.03,
+    "geo_altitude": 1082.04,
+    "longitude": -88.7716,
+    "latitude": 43.9637
+  },
+  {
+    "icao24": "c058bf",
+    "callsign": "ACA889  ",
+    "origin_country": "Canada",
+    "velocity": 247.95,
+    "geo_altitude": 12672.06,
+    "longitude": -15.414,
+    "latitude": 54.1246
+  },
+  {
+    "icao24": "4b5182",
+    "callsign": "HB3291  ",
+    "origin_country": "Switzerland",
+    "velocity": 42.2,
+    "geo_altitude": 1760.22,
+    "longitude": 9.5892,
+    "latitude": 48.1128
+  },
+  {
+    "icao24": "3e67b9",
+    "callsign": "DKEMB   ",
+    "origin_country": "Germany",
+    "velocity": 38.24,
+    "geo_altitude": 0.0,
+    "longitude": 10.8958,
+    "latitude": 51.8307
+  },
+  {
+    "icao24": "440065",
+    "callsign": "EJU41DH ",
+    "origin_country": "Austria",
+    "velocity": 227.12,
+    "geo_altitude": 11772.9,
+    "longitude": 9.0242,
+    "latitude": 47.9332
+  },
+  {
+    "icao24": "a62908",
+    "callsign": "N4962H  ",
+    "origin_country": "United States",
+    "velocity": 48.29,
+    "geo_altitude": 1173.48,
+    "longitude": -123.1793,
+    "latitude": 45.1222
+  },
+  {
+    "icao24": "484fff",
+    "callsign": "KLM617  ",
+    "origin_country": "Kingdom of the Netherlands",
+    "velocity": 231.5,
+    "geo_altitude": 11468.1,
+    "longitude": -4.4834,
+    "latitude": 53.5534
+  },
+  {
+    "icao24": "452037",
+    "callsign": "GPX8KW  ",
+    "origin_country": "Bulgaria",
+    "velocity": 224.3,
+    "geo_altitude": 0.0,
+    "longitude": 17.7952,
+    "latitude": 44.3894
+  },
+  {
+    "icao24": "3c4a0f",
+    "callsign": "DLH729  ",
+    "origin_country": "Germany",
+    "velocity": 205.34,
+    "geo_altitude": 6469.38,
+    "longitude": 10.1511,
+    "latitude": 49.5694
+  },
+  {
+    "icao24": "44003a",
+    "callsign": "AUA81T  ",
+    "origin_country": "Austria",
+    "velocity": 2.31,
+    "geo_altitude": 0.0,
+    "longitude": 16.5748,
+    "latitude": 48.1093
+  },
+  {
+    "icao24": "440047",
+    "callsign": "EJU81FY ",
+    "origin_country": "Austria",
+    "velocity": 82.64,
+    "geo_altitude": 571.5,
+    "longitude": -0.6826,
+    "latitude": 44.8512
+  },
+  {
+    "icao24": "47866d",
+    "callsign": "LNNAE   ",
+    "origin_country": "Norway",
+    "velocity": 66.9,
+    "geo_altitude": 2484.12,
+    "longitude": 10.3461,
+    "latitude": 54.3273
+  },
+  {
+    "icao24": "440052",
+    "callsign": "AUA816  ",
+    "origin_country": "Austria",
+    "velocity": 237.69,
+    "geo_altitude": 12054.84,
+    "longitude": 20.4207,
+    "latitude": 45.1582
+  },
+  {
+    "icao24": "3453d3",
+    "callsign": "ANE70XF ",
+    "origin_country": "Spain",
+    "velocity": 194.4,
+    "geo_altitude": 5859.78,
+    "longitude": 5.0241,
+    "latitude": 42.7696
+  },
+  {
+    "icao24": "440051",
+    "callsign": "EJU81BM ",
+    "origin_country": "Austria",
+    "velocity": 242.46,
+    "geo_altitude": 11826.24,
+    "longitude": 9.4239,
+    "latitude": 42.789
+  },
+  {
+    "icao24": "440050",
+    "callsign": "AUA21E  ",
+    "origin_country": "Austria",
+    "velocity": 190.62,
+    "geo_altitude": 7696.2,
+    "longitude": 10.6994,
+    "latitude": 49.2144
+  },
+  {
+    "icao24": "a9fa2a",
+    "callsign": "N742C   ",
+    "origin_country": "United States",
+    "velocity": 77.55,
+    "geo_altitude": 1051.56,
+    "longitude": 12.9279,
+    "latitude": 51.2973
+  },
+  {
+    "icao24": "44006e",
+    "callsign": "AUA811  ",
+    "origin_country": "Austria",
+    "velocity": 238.59,
+    "geo_altitude": 11209.02,
+    "longitude": 20.9958,
+    "latitude": 42.2041
+  },
+  {
+    "icao24": "44006d",
+    "callsign": "AUA405  ",
+    "origin_country": "Austria",
+    "velocity": 8.75,
+    "geo_altitude": 0.0,
+    "longitude": 16.575,
+    "latitude": 48.1114
+  },
+  {
+    "icao24": "a11380",
+    "callsign": "DAL405  ",
+    "origin_country": "United States",
+    "velocity": 259.65,
+    "geo_altitude": 11925.3,
+    "longitude": -104.9891,
+    "latitude": 42.4636
+  },
+  {
+    "icao24": "4b0f50",
+    "callsign": "HUE40H  ",
+    "origin_country": "Switzerland",
+    "velocity": 137.88,
+    "geo_altitude": 7703.82,
+    "longitude": 8.072,
+    "latitude": 43.8051
+  },
+  {
+    "icao24": "484fdf",
+    "callsign": "KLM60H  ",
+    "origin_country": "Kingdom of the Netherlands",
+    "velocity": 244.88,
+    "geo_altitude": 10081.26,
+    "longitude": -8.9054,
+    "latitude": 42.188
+  },
+  {
+    "icao24": "440083",
+    "callsign": "EJU59CE ",
+    "origin_country": "Austria",
+    "velocity": 226.35,
+    "geo_altitude": 11490.96,
+    "longitude": -5.2586,
+    "latitude": 52.289
+  },
+  {
+    "icao24": "484fde",
+    "callsign": "KLM1479 ",
+    "origin_country": "Kingdom of the Netherlands",
+    "velocity": 242.78,
+    "geo_altitude": 11178.54,
+    "longitude": 8.3009,
+    "latitude": 46.2298
+  },
+  {
+    "icao24": "3d47e7",
+    "callsign": "DEZMD   ",
+    "origin_country": "Germany",
+    "velocity": 70.91,
+    "geo_altitude": 1569.72,
+    "longitude": 8.9904,
+    "latitude": 49.1807
+  },
+  {
+    "icao24": "ac2122",
+    "callsign": "N8807   ",
+    "origin_country": "United States",
+    "velocity": 42.95,
+    "geo_altitude": 472.44,
+    "longitude": -88.3963,
+    "latitude": 42.411
+  },
+  {
+    "icao24": "440073",
+    "callsign": "EJU59GM ",
+    "origin_country": "Austria",
+    "velocity": 0.45,
+    "geo_altitude": 0.0,
+    "longitude": 4.7089,
+    "latitude": 52.3289
+  },
+  {
+    "icao24": "440072",
+    "callsign": "EJU16AQ ",
+    "origin_country": "Austria",
+    "velocity": 111.13,
+    "geo_altitude": 845.82,
+    "longitude": 8.7246,
+    "latitude": 45.6761
+  },
+  {
+    "icao24": "70209e",
+    "callsign": "BBC305  ",
+    "origin_country": "Bangladesh",
+    "velocity": 246.77,
+    "geo_altitude": 11734.8,
+    "longitude": -70.8481,
+    "latitude": 48.1157
+  },
+  {
+    "icao24": "70209b",
+    "callsign": "BBC207  ",
+    "origin_country": "Bangladesh",
+    "velocity": 229.39,
+    "geo_altitude": 12611.1,
+    "longitude": 15.3833,
+    "latitude": 49.5651
+  },
+  {
+    "icao24": "a7ccce",
+    "callsign": "SKW4788 ",
+    "origin_country": "United States",
+    "velocity": 232.86,
+    "geo_altitude": 11231.88,
+    "longitude": -99.7097,
+    "latitude": 43.0303
+  },
+  {
+    "icao24": "440018",
+    "callsign": "EJU36VF ",
+    "origin_country": "Austria",
+    "velocity": 229.99,
+    "geo_altitude": 12420.6,
+    "longitude": 0.8896,
+    "latitude": 47.5822
+  },
+  {
+    "icao24": "440017",
+    "callsign": "OEANN   ",
+    "origin_country": "Austria",
+    "velocity": 34.65,
+    "geo_altitude": 800.1,
+    "longitude": 10.0312,
+    "latitude": 47.8674
+  },
+  {
+    "icao24": "40438d",
+    "callsign": "GGYTO   ",
+    "origin_country": "United Kingdom",
+    "velocity": 48.1,
+    "geo_altitude": 1074.42,
+    "longitude": -0.9149,
+    "latitude": 51.8979
+  },
+  {
+    "icao24": "440005",
+    "callsign": "EJU68EA ",
+    "origin_country": "Austria",
+    "velocity": 201.85,
+    "geo_altitude": 4671.06,
+    "longitude": -1.6942,
+    "latitude": 50.0484
+  },
+  {
+    "icao24": "a8431a",
+    "callsign": "SKW4669 ",
+    "origin_country": "United States",
+    "velocity": 235.61,
+    "geo_altitude": 11262.36,
+    "longitude": -101.6307,
+    "latitude": 41.6786
+  },
+  {
+    "icao24": "a8b964",
+    "callsign": "QXE2298 ",
+    "origin_country": "United States",
+    "velocity": 90.94,
+    "geo_altitude": 861.06,
+    "longitude": -122.3789,
+    "latitude": 45.5004
+  },
+  {
+    "icao24": "a018c4",
+    "callsign": "N105RF  ",
+    "origin_country": "United States",
+    "velocity": 82.83,
+    "geo_altitude": 5021.58,
+    "longitude": -82.8711,
+    "latitude": 43.6281
+  },
+  {
+    "icao24": "440039",
+    "callsign": "AUA796B ",
+    "origin_country": "Austria",
+    "velocity": 226.45,
+    "geo_altitude": 10911.84,
+    "longitude": 23.579,
+    "latitude": 41.2921
+  },
+  {
+    "icao24": "a35390",
+    "callsign": "N313SK  ",
+    "origin_country": "United States",
+    "velocity": 66.01,
+    "geo_altitude": 853.44,
+    "longitude": -93.7679,
+    "latitude": 45.2703
+  },
+  {
+    "icao24": "a4b065",
+    "callsign": "AAL2453 ",
+    "origin_country": "United States",
+    "velocity": 126.21,
+    "geo_altitude": 1866.9,
+    "longitude": -71.2119,
+    "latitude": 42.7053
+  },
+  {
+    "icao24": "46c942",
+    "callsign": "RJB202  ",
+    "origin_country": "Greece",
+    "velocity": 203.45,
+    "geo_altitude": 13655.04,
+    "longitude": 14.1082,
+    "latitude": 43.0602
+  },
+  {
+    "icao24": "ac32f2",
+    "callsign": "SWA1059 ",
+    "origin_country": "United States",
+    "velocity": 218.85,
+    "geo_altitude": 12260.58,
+    "longitude": -106.8288,
+    "latitude": 41.7464
+  },
+  {
+    "icao24": "44001f",
+    "callsign": "EJU18QF ",
+    "origin_country": "Austria",
+    "velocity": 221.94,
+    "geo_altitude": 8023.86,
+    "longitude": 1.8492,
+    "latitude": 52.0481
+  },
+  {
+    "icao24": "44001e",
+    "callsign": "AUA41   ",
+    "origin_country": "Austria",
+    "velocity": 227.83,
+    "geo_altitude": 11635.74,
+    "longitude": -62.5314,
+    "latitude": 49.4958
+  },
+  {
+    "icao24": "a35388",
+    "callsign": "AAL654  ",
+    "origin_country": "United States",
+    "velocity": 220.73,
+    "geo_altitude": 11567.16,
+    "longitude": -113.303,
+    "latitude": 43.1925
+  },
+  {
+    "icao24": "44001a",
+    "callsign": "AUA857  ",
+    "origin_country": "Austria",
+    "velocity": 207.99,
+    "geo_altitude": 5158.74,
+    "longitude": 16.7287,
+    "latitude": 47.6079
+  },
+  {
+    "icao24": "8960f6",
+    "callsign": "UAE5GU  ",
+    "origin_country": "United Arab Emirates",
+    "velocity": 262.38,
+    "geo_altitude": 12512.04,
+    "longitude": 26.9659,
+    "latitude": 41.6223
+  },
+  {
+    "icao24": "ac7b8a",
+    "callsign": "AAL2250 ",
+    "origin_country": "United States",
+    "velocity": 269.08,
+    "geo_altitude": 11788.14,
+    "longitude": -81.2731,
+    "latitude": 41.8671
+  },
+  {
+    "icao24": "adeb64",
+    "callsign": "CAP2025 ",
+    "origin_country": "United States",
+    "velocity": 53.04,
+    "geo_altitude": 1562.1,
+    "longitude": -84.0106,
+    "latitude": 43.7586
+  },
+  {
+    "icao24": "a5e30d",
+    "callsign": "N479FG  ",
+    "origin_country": "United States",
+    "velocity": 108.3,
+    "geo_altitude": 1112.52,
+    "longitude": -77.9285,
+    "latitude": 42.9135
+  },
+  {
+    "icao24": "a3b68b",
+    "callsign": "N33847  ",
+    "origin_country": "United States",
+    "velocity": 40.8,
+    "geo_altitude": 365.76,
+    "longitude": -71.5191,
+    "latitude": 42.795
+  },
+  {
+    "icao24": "47c1f7",
+    "callsign": "NOZ1026 ",
+    "origin_country": "Norway",
+    "velocity": 3.86,
+    "geo_altitude": 0.0,
+    "longitude": 5.2254,
+    "latitude": 60.2808
+  },
+  {
+    "icao24": "8960fa",
+    "callsign": "UAE7V   ",
+    "origin_country": "United Arab Emirates",
+    "velocity": 246.63,
+    "geo_altitude": 12778.74,
+    "longitude": 18.7964,
+    "latitude": 41.7808
+  },
+  {
+    "icao24": "344195",
+    "callsign": "ANE1183 ",
+    "origin_country": "Spain",
+    "velocity": 259.8,
+    "geo_altitude": 10888.98,
+    "longitude": -0.1918,
+    "latitude": 42.7971
+  },
+  {
+    "icao24": "c0598f",
+    "callsign": "CGHXU   ",
+    "origin_country": "Canada",
+    "velocity": 49.14,
+    "geo_altitude": 1684.02,
+    "longitude": -80.3962,
+    "latitude": 47.2026
+  },
+  {
+    "icao24": "c0332c",
+    "callsign": "ROU2132 ",
+    "origin_country": "Canada",
+    "velocity": 0.45,
+    "geo_altitude": 0.0,
+    "longitude": -123.1809,
+    "latitude": 49.1965
+  },
+  {
+    "icao24": "a4d687",
+    "callsign": "N4100Q  ",
+    "origin_country": "United States",
+    "velocity": 53.08,
+    "geo_altitude": 571.5,
+    "longitude": -92.7129,
+    "latitude": 44.8725
+  },
+  {
+    "icao24": "a5d007",
+    "callsign": "ASA385  ",
+    "origin_country": "United States",
+    "velocity": 262.95,
+    "geo_altitude": 11102.34,
+    "longitude": -114.1832,
+    "latitude": 47.6131
+  },
+  {
+    "icao24": "40307e",
+    "callsign": "GBRTD   ",
+    "origin_country": "United Kingdom",
+    "velocity": 47.22,
+    "geo_altitude": 1287.78,
+    "longitude": -1.9731,
+    "latitude": 52.2836
+  },
+  {
+    "icao24": "8960e7",
+    "callsign": "UAE46   ",
+    "origin_country": "United Arab Emirates",
+    "velocity": 265.3,
+    "geo_altitude": 11818.62,
+    "longitude": 27.6323,
+    "latitude": 42.677
+  },
+  {
+    "icao24": "a28e0a",
+    "callsign": "MXY131  ",
+    "origin_country": "United States",
+    "velocity": 232.42,
+    "geo_altitude": 8755.38,
+    "longitude": -87.9157,
+    "latitude": 41.8533
+  },
+  {
+    "icao24": "a4c369",
+    "callsign": "N406FA  ",
+    "origin_country": "United States",
+    "velocity": 58.96,
+    "geo_altitude": 1127.76,
+    "longitude": -75.8469,
+    "latitude": 41.2171
+  },
+  {
+    "icao24": "a73665",
+    "callsign": "GJS4193 ",
+    "origin_country": "United States",
+    "velocity": 195.09,
+    "geo_altitude": 4069.08,
+    "longitude": -87.5604,
+    "latitude": 42.795
+  },
+  {
+    "icao24": "344297",
+    "callsign": "AEA39LP ",
+    "origin_country": "Spain",
+    "velocity": 204.75,
+    "geo_altitude": 5608.32,
+    "longitude": -4.105,
+    "latitude": 43.1949
+  },
+  {
+    "icao24": "a40b1e",
+    "callsign": "N36MZ   ",
+    "origin_country": "United States",
+    "velocity": 84.1,
+    "geo_altitude": 2186.94,
+    "longitude": -91.4838,
+    "latitude": 45.2287
+  },
+  {
+    "icao24": "89611f",
+    "callsign": "UAE158  ",
+    "origin_country": "United Arab Emirates",
+    "velocity": 276.23,
+    "geo_altitude": 10408.92,
+    "longitude": 24.6297,
+    "latitude": 46.3215
+  },
+  {
+    "icao24": "a2cb32",
+    "callsign": "UAL263  ",
+    "origin_country": "United States",
+    "velocity": 0.0,
+    "geo_altitude": 0.0,
+    "longitude": -0.4422,
+    "latitude": 51.471
+  },
+  {
+    "icao24": "a4d5c7",
+    "callsign": "SKW3393 ",
+    "origin_country": "United States",
+    "velocity": 70.87,
+    "geo_altitude": 1097.28,
+    "longitude": -116.2899,
+    "latitude": 43.5861
+  },
+  {
+    "icao24": "a52b1f",
+    "callsign": "LXJ432  ",
+    "origin_country": "United States",
+    "velocity": 231.36,
+    "geo_altitude": 11384.28,
+    "longitude": -91.8044,
+    "latitude": 41.7456
+  },
+  {
+    "icao24": "ab38e6",
+    "callsign": "N822GG  ",
+    "origin_country": "United States",
+    "velocity": 83.32,
+    "geo_altitude": 1851.66,
+    "longitude": -88.7051,
+    "latitude": 44.6246
+  },
+  {
+    "icao24": "405636",
+    "callsign": "EZY25AP ",
+    "origin_country": "United Kingdom",
+    "velocity": 57.95,
+    "geo_altitude": 213.36,
+    "longitude": -0.3795,
+    "latitude": 51.8727
+  },
+  {
+    "icao24": "405631",
+    "callsign": "EZY9532 ",
+    "origin_country": "United Kingdom",
+    "velocity": 213.57,
+    "geo_altitude": 10828.02,
+    "longitude": 1.6258,
+    "latitude": 49.9496
+  },
+  {
+    "icao24": "a2cb14",
+    "callsign": "UAL6    ",
+    "origin_country": "United States",
+    "velocity": 256.79,
+    "geo_altitude": 11932.92,
+    "longitude": -133.6015,
+    "latitude": 55.4998
+  },
+  {
+    "icao24": "4891b3",
+    "callsign": "ENT1667 ",
+    "origin_country": "Poland",
+    "velocity": 244.28,
+    "geo_altitude": 11704.32,
+    "longitude": 25.3271,
+    "latitude": 45.4863
+  },
+  {
+    "icao24": "896110",
+    "callsign": "UAE232  ",
+    "origin_country": "United Arab Emirates",
+    "velocity": 276.77,
+    "geo_altitude": 9768.84,
+    "longitude": -71.1143,
+    "latitude": 42.5265
+  },
+  {
+    "icao24": "a3a2c2",
+    "callsign": "N333UM  ",
+    "origin_country": "United States",
+    "velocity": 33.75,
+    "geo_altitude": 411.48,
+    "longitude": -83.7159,
+    "latitude": 42.2316
+  },
+  {
+    "icao24": "aa908e",
+    "callsign": "ENY4174 ",
+    "origin_country": "United States",
+    "velocity": 114.41,
+    "geo_altitude": 1386.84,
+    "longitude": -92.413,
+    "latitude": 43.8554
+  },
+  {
+    "icao24": "4891ad",
+    "callsign": "ENT448  ",
+    "origin_country": "Poland",
+    "velocity": 220.4,
+    "geo_altitude": 11163.3,
+    "longitude": 2.1201,
+    "latitude": 49.8351
+  },
+  {
+    "icao24": "a125f9",
+    "callsign": "SKW3105 ",
+    "origin_country": "United States",
+    "velocity": 158.17,
+    "geo_altitude": 7162.8,
+    "longitude": -122.424,
+    "latitude": 47.4714
+  },
+  {
+    "icao24": "896111",
+    "callsign": "UAE149  ",
+    "origin_country": "United Arab Emirates",
+    "velocity": 241.51,
+    "geo_altitude": 11475.72,
+    "longitude": 19.701,
+    "latitude": 43.341
+  },
+  {
+    "icao24": "a3eb3c",
+    "callsign": "N35121  ",
+    "origin_country": "United States",
+    "velocity": 48.23,
+    "geo_altitude": 899.16,
+    "longitude": -121.9206,
+    "latitude": 47.8715
+  },
+  {
+    "icao24": "471d6f",
+    "callsign": "WZZ3112 ",
+    "origin_country": "Hungary",
+    "velocity": 239.99,
+    "geo_altitude": 10477.5,
+    "longitude": 17.4816,
+    "latitude": 46.5156
+  },
+  {
+    "icao24": "471d6e",
+    "callsign": "WZZ2039 ",
+    "origin_country": "Hungary",
+    "velocity": 79.07,
+    "geo_altitude": 289.56,
+    "longitude": 20.2643,
+    "latitude": 44.8384
+  },
+  {
+    "icao24": "345595",
+    "callsign": "ECMSC   ",
+    "origin_country": "Spain",
+    "velocity": 241.64,
+    "geo_altitude": 12412.98,
+    "longitude": -73.9067,
+    "latitude": 47.8802
+  },
+  {
+    "icao24": "3e5671",
+    "callsign": "LEJ888  ",
+    "origin_country": "Germany",
+    "velocity": 196.63,
+    "geo_altitude": 13014.96,
+    "longitude": 14.1212,
+    "latitude": 45.88
+  },
+  {
+    "icao24": "896116",
+    "callsign": "UAE3JP  ",
+    "origin_country": "United Arab Emirates",
+    "velocity": 237.77,
+    "geo_altitude": 11407.14,
+    "longitude": 12.9407,
+    "latitude": 49.0937
+  },
+  {
+    "icao24": "a0f2c6",
+    "callsign": "N160ME  ",
+    "origin_country": "United States",
+    "velocity": 44.59,
+    "geo_altitude": 1546.86,
+    "longitude": -116.8921,
+    "latitude": 44.0522
+  },
+  {
+    "icao24": "a6f04c",
+    "callsign": "VJA546  ",
+    "origin_country": "United States",
+    "velocity": 225.88,
+    "geo_altitude": 10241.28,
+    "longitude": 0.1083,
+    "latitude": 50.2515
+  },
+  {
+    "icao24": "471d69",
+    "callsign": "WZZ488  ",
+    "origin_country": "Hungary",
+    "velocity": 187.15,
+    "geo_altitude": 6873.24,
+    "longitude": 19.5282,
+    "latitude": 44.3285
+  },
+  {
+    "icao24": "471d62",
+    "callsign": "WZZ667  ",
+    "origin_country": "Hungary",
+    "velocity": 121.69,
+    "geo_altitude": 1120.14,
+    "longitude": 19.14,
+    "latitude": 47.4909
+  },
+  {
+    "icao24": "471d66",
+    "callsign": "WZZ9572 ",
+    "origin_country": "Hungary",
+    "velocity": 240.26,
+    "geo_altitude": 11201.4,
+    "longitude": 7.806,
+    "latitude": 43.5268
+  },
+  {
+    "icao24": "c1ea3e",
+    "callsign": "ES251   ",
+    "origin_country": "Canada",
+    "velocity": 0.0,
+    "geo_altitude": 0.0,
+    "longitude": -113.9985,
+    "latitude": 51.1234
+  },
+  {
+    "icao24": "471d65",
+    "callsign": "WZZ52   ",
+    "origin_country": "Hungary",
+    "velocity": 239.74,
+    "geo_altitude": 10546.08,
+    "longitude": 8.1467,
+    "latitude": 43.817
+  },
+  {
+    "icao24": "3d4973",
+    "callsign": "DFABJ   ",
+    "origin_country": "Germany",
+    "velocity": 131.83,
+    "geo_altitude": 9296.4,
+    "longitude": 6.3807,
+    "latitude": 43.0109
+  },
+  {
+    "icao24": "c1ea42",
+    "callsign": "SEC205  ",
+    "origin_country": "Canada",
+    "velocity": 9.77,
+    "geo_altitude": 0.0,
+    "longitude": -114.0251,
+    "latitude": 51.1308
+  },
+  {
+    "icao24": "a5d068",
+    "callsign": "N474EP  ",
+    "origin_country": "United States",
+    "velocity": 32.38,
+    "geo_altitude": 906.78,
+    "longitude": -73.6211,
+    "latitude": 41.4811
+  },
+  {
+    "icao24": "ac45d5",
+    "callsign": "FDX38   ",
+    "origin_country": "United States",
+    "velocity": 250.36,
+    "geo_altitude": 12412.98,
+    "longitude": -6.7488,
+    "latitude": 50.35
+  },
+  {
+    "icao24": "471d5a",
+    "callsign": "WZZ63   ",
+    "origin_country": "Hungary",
+    "velocity": 222.98,
+    "geo_altitude": 11818.62,
+    "longitude": 4.9875,
+    "latitude": 44.5917
+  },
+  {
+    "icao24": "471d5b",
+    "callsign": "WMT263  ",
+    "origin_country": "Hungary",
+    "velocity": 221.75,
+    "geo_altitude": 9334.5,
+    "longitude": 16.992,
+    "latitude": 48.0645
+  },
+  {
+    "icao24": "471d5f",
+    "callsign": "WZZ4QX  ",
+    "origin_country": "Hungary",
+    "velocity": 220.87,
+    "geo_altitude": 11468.1,
+    "longitude": 21.7688,
+    "latitude": 44.404
+  },
+  {
+    "icao24": "a9766c",
+    "callsign": "GMH709  ",
+    "origin_country": "United States",
+    "velocity": 167.75,
+    "geo_altitude": 3718.56,
+    "longitude": -70.2169,
+    "latitude": 43.982
+  },
+  {
+    "icao24": "3ffa7b",
+    "callsign": "DMTWH   ",
+    "origin_country": "Germany",
+    "velocity": 38.24,
+    "geo_altitude": 0.0,
+    "longitude": 12.6433,
+    "latitude": 52.6689
+  },
+  {
+    "icao24": "a0f2f5",
+    "callsign": "KAP155  ",
+    "origin_country": "United States",
+    "velocity": 75.63,
+    "geo_altitude": 2468.88,
+    "longitude": -72.1083,
+    "latitude": 42.275
+  },
+  {
+    "icao24": "a97690",
+    "callsign": "CFS8692 ",
+    "origin_country": "United States",
+    "velocity": 48.53,
+    "geo_altitude": 967.74,
+    "longitude": -121.1727,
+    "latitude": 44.2641
+  },
+  {
+    "icao24": "40697c",
+    "callsign": "EFW76D  ",
+    "origin_country": "United Kingdom",
+    "velocity": 242.27,
+    "geo_altitude": 11849.1,
+    "longitude": 21.8041,
+    "latitude": 42.0888
+  },
+  {
+    "icao24": "a96361",
+    "callsign": "N70392  ",
+    "origin_country": "United States",
+    "velocity": 52.55,
+    "geo_altitude": 2026.92,
+    "longitude": -93.9391,
+    "latitude": 44.3755
+  },
+  {
+    "icao24": "4784c2",
+    "callsign": "NOZ9463 ",
+    "origin_country": "Norway",
+    "velocity": 232.81,
+    "geo_altitude": 7856.22,
+    "longitude": 10.5851,
+    "latitude": 62.3001
+  },
+  {
+    "icao24": "40431b",
+    "callsign": "GBZBS   ",
+    "origin_country": "United Kingdom",
+    "velocity": 36.26,
+    "geo_altitude": 388.62,
+    "longitude": -0.9422,
+    "latitude": 51.4111
+  },
+  {
+    "icao24": 
